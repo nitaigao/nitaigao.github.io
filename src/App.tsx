@@ -172,8 +172,8 @@ const App = () => (
       <div>January 2014 – January 2017 · London &amp; New York</div>
       <ul>
         <li>
-          Consulted on client projects for a venture studio, spanning charities
-          and consumer brands.
+          Consulting and tech leadership on client projects for a venture
+          studio, spanning charities and consumer brands.
         </li>
         <li>
           Built interactive 3D visualisations for a professional cycling team's
