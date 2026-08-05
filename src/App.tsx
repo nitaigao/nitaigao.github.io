@@ -114,10 +114,6 @@ const App = () => (
           through a retained agency, MVP build, release and analytics) so the
           business can take products from concept to launch.
         </li>
-        <li>
-          Attend board meetings and contribute to company strategy alongside
-          setting technical vision and direction.
-        </li>
       </ul>
     </section>
     <section>

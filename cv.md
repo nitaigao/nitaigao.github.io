@@ -35,7 +35,6 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Built and led a team of four engineers, mentoring each of them through to more senior roles.
 - Delivered productivity gains that have allowed the business to absorb natural attrition without replacement hires.
 - Established the end-to-end product pipeline (specification, design through a retained agency, MVP build, release and analytics) so the business can take products from concept to launch.
-- Attend board meetings and contribute to company strategy alongside setting technical vision and direction.
 
 ### Senior Software Engineer
 
