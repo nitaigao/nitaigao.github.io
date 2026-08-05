@@ -4,15 +4,16 @@ Dubai · nkostelnik@gmail.com
 
 ## Profile
 
-Software engineering leader and systems programmer with over 17 years' experience, currently CTO of Education Intelligence, the education research business behind Teacher Tapp and School Surveys. Spent the last few years rebuilding the company AI-native: coding agents take tickets from specification to reviewed pull request, an agent sits in meetings and raises the tickets itself, and custom MCP infrastructure connects every system in the business to Claude. That sits on top of a deep systems background — two production Rust platforms, C++ GPU programming on PlayStation 3 — and a career-long reputation as the engineer pointed at the hardest debugging and integration problems: happiest taking something broken apart to find out exactly why.
+Software engineering leader and systems programmer with over 17 years' experience, currently CTO of Education Intelligence, the education research business behind Teacher Tapp and School Surveys. Spent the last few years personally building the company into an AI-native one: a TypeScript orchestration layer where coding agents take tickets from specification to reviewed pull request, an agent that sits in meetings and raises the tickets itself, and custom MCP infrastructure connecting every system in the business to Claude. That sits on top of a deep systems background — two production Rust platforms, C++ GPU programming on PlayStation 3 — and a career-long reputation as the engineer pointed at the hardest debugging and integration problems: happiest taking something broken apart to find out exactly why.
 
 ## Highlights
 
-- **Agentic software delivery in production:** built a multi-agent pipeline where tickets are specified with human review, implemented autonomously by coding agents (Claude, Codex) and raised as GitHub pull requests for human review — now the default path for shipping code at Education Intelligence, with productivity gains that have let the business absorb natural attrition without replacement hires.
+- **Agentic software delivery in production:** built a multi-agent orchestration pipeline where tickets are specified with human review, implemented autonomously by coding agents (Claude, Codex) and raised as GitHub pull requests for human review — LLM autonomy wrapped in hard-coded workflow logic and human gates. Now the default path for shipping code at Education Intelligence, with productivity gains that have let the business absorb natural attrition without replacement hires.
 - **Voice-native project management:** built an agent that joins company calls, listens to the discussion and raises fully contextualised tickets — replacing the Kanban board entirely.
 - **MCP infrastructure:** rolled AI out to every member of the business and connected its systems to Claude, including building a proxy service that exposes MCP connectors for SaaS products that lack them.
-- **Custom integrations against messy real-world systems:** a recurring theme across roles — .NET data-extraction agents running on servers inside schools, lead-distribution frameworks integrating dozens of utility providers at Switcher.ie and uSwitch, and the MCP proxy layer above.
+- **Custom integrations against messy real-world systems:** a recurring theme across roles — .NET data-extraction agents deployed on-prem on servers inside schools, lead-distribution frameworks integrating dozens of utility providers at Switcher.ie and uSwitch, and the MCP proxy layer above.
 - **Systems depth:** two production Rust platforms engineered for a load profile where half of each day's traffic arrives within the same ten-minute window; previously, real-time Navier–Stokes fluid simulation in shaders on the PlayStation 3 GPU.
+- **Infrastructure as part of the product:** sole owner of the Terraform and Kubernetes infrastructure at Switcher.ie — preview, staging and production environments and their monitoring — with cloud infrastructure ownership continuing at Education Intelligence today.
 - **Built CI before CI was a product:** an internal deployment system at uSwitch taking pull requests from up to 100 engineers through an automated pipeline to production, before mainstream CI tooling existed.
 
 ## Experience
@@ -87,7 +88,7 @@ Software engineering leader and systems programmer with over 17 years' experienc
 
 ## Skills & Technologies
 
-- **AI & agentic engineering:** agentic development workflows (Claude, Codex), multi-agent pipelines, MCP connector and proxy development, generative AI, machine learning, PyTorch
+- **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows (Claude, Codex), multi-agent pipelines, MCP connector and proxy development, generative AI, machine learning, PyTorch
 - **Languages:** Rust, C++, TypeScript, Go, Python, C#, JavaScript, Ruby, Java, SQL
 - **Cloud & infrastructure:** AWS, Google Cloud Platform, Terraform, Kubernetes, CI/CD pipelines, preview/staging/production environment provisioning, monitoring
 - **Graphics & simulation:** GPU and shader programming, DirectX, real-time fluid simulation, 3D mathematics, augmented reality

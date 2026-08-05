@@ -9,9 +9,10 @@ const App = () => (
         Software engineering leader and systems programmer with over 17 years'
         experience, currently CTO of Education Intelligence, the education
         research business behind Teacher Tapp and School Surveys. Spent the last
-        few years rebuilding the company AI-native: coding agents take tickets
-        from specification to reviewed pull request, an agent sits in meetings
-        and raises the tickets itself, and custom MCP infrastructure connects
+        few years personally building the company into an AI-native one: a
+        TypeScript orchestration layer where coding agents take tickets from
+        specification to reviewed pull request, an agent that sits in meetings
+        and raises the tickets itself, and custom MCP infrastructure connecting
         every system in the business to Claude. That sits on top of a deep
         systems background — two production Rust platforms, C++ GPU programming
         on PlayStation 3 — and a career-long reputation as the engineer pointed
@@ -24,12 +25,13 @@ const App = () => (
       <ul>
         <li>
           <strong>Agentic software delivery in production:</strong> built a
-          multi-agent pipeline where tickets are specified with human review,
-          implemented autonomously by coding agents (Claude, Codex) and raised
-          as GitHub pull requests for human review — now the default path for
-          shipping code at Education Intelligence, with productivity gains that
-          have let the business absorb natural attrition without replacement
-          hires.
+          multi-agent orchestration pipeline where tickets are specified with
+          human review, implemented autonomously by coding agents (Claude,
+          Codex) and raised as GitHub pull requests for human review — LLM
+          autonomy wrapped in hard-coded workflow logic and human gates. Now the
+          default path for shipping code at Education Intelligence, with
+          productivity gains that have let the business absorb natural attrition
+          without replacement hires.
         </li>
         <li>
           <strong>Voice-native project management:</strong> built an agent that
@@ -44,16 +46,22 @@ const App = () => (
         </li>
         <li>
           <strong>Custom integrations against messy real-world systems:</strong>{" "}
-          a recurring theme across roles — .NET data-extraction agents running
-          on servers inside schools, lead-distribution frameworks integrating
-          dozens of utility providers at Switcher.ie and uSwitch, and the MCP
-          proxy layer above.
+          a recurring theme across roles — .NET data-extraction agents deployed
+          on-prem on servers inside schools, lead-distribution frameworks
+          integrating dozens of utility providers at Switcher.ie and uSwitch,
+          and the MCP proxy layer above.
         </li>
         <li>
           <strong>Systems depth:</strong> two production Rust platforms
           engineered for a load profile where half of each day's traffic arrives
           within the same ten-minute window; previously, real-time Navier–Stokes
           fluid simulation in shaders on the PlayStation 3 GPU.
+        </li>
+        <li>
+          <strong>Infrastructure as part of the product:</strong> sole owner of
+          the Terraform and Kubernetes infrastructure at Switcher.ie — preview,
+          staging and production environments and their monitoring — with cloud
+          infrastructure ownership continuing at Education Intelligence today.
         </li>
         <li>
           <strong>Built CI before CI was a product:</strong> an internal
@@ -232,9 +240,10 @@ const App = () => (
     <section>
       <ul>
         <li>
-          <strong>AI &amp; agentic engineering:</strong> agentic development
-          workflows (Claude, Codex), multi-agent pipelines, MCP connector and
-          proxy development, generative AI, machine learning, PyTorch
+          <strong>AI &amp; agentic engineering:</strong> LLM orchestration and
+          prompt engineering, agentic development workflows (Claude, Codex),
+          multi-agent pipelines, MCP connector and proxy development, generative
+          AI, machine learning, PyTorch
         </li>
         <li>
           <strong>Languages:</strong> Rust, C++, TypeScript, Go, Python, C#,
