@@ -116,6 +116,7 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <hr />
     <section>
       <h3>Senior Software Engineer</h3>
       <h4>Switcher.ie</h4>
@@ -137,6 +138,7 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <hr />
     <section>
       <h3>Lead Software Engineer</h3>
       <h4>Assembly Edu</h4>
@@ -163,6 +165,7 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <hr />
     <section>
       <h3>Senior Developer</h3>
       <h4>NEON Adventures</h4>
@@ -182,6 +185,7 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <hr />
     <section>
       <h3>Senior Graphics Programmer</h3>
       <h4>Sony Computer Entertainment Europe</h4>
@@ -203,6 +207,7 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <hr />
     <section>
       <h3>Senior Developer</h3>
       <h4>Forward Internet Group (uSwitch)</h4>

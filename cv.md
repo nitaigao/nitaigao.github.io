@@ -36,6 +36,8 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Delivered productivity gains that have allowed the business to absorb natural attrition without replacement hires.
 - Established the end-to-end product pipeline (specification, design through a retained agency, MVP build, release and analytics) so the business can take products from concept to launch.
 
+---
+
 ### Senior Software Engineer
 
 #### Switcher.ie
@@ -45,6 +47,8 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Part of a small team of senior engineers building the service-oriented platform behind Ireland's leading comparison site, handling lead capture from the website.
 - Designed and built the framework for distributing leads to the utility providers.
 - Owned the infrastructure: preview, staging and production environments and their monitoring, built with Terraform and Kubernetes.
+
+---
 
 ### Lead Software Engineer
 
@@ -57,6 +61,8 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Wrote the cloud processing pipeline that turned raw school data into a queryable database, consumed by third-party education providers for analysis.
 - Owned the infrastructure (AWS) and a substantial share of the Ruby platform.
 
+---
+
 ### Senior Developer
 
 #### NEON Adventures
@@ -67,6 +73,8 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Built an interactive 3D bike visualisation for a professional cycling team's website, at a time when 3D in the browser was still rare.
 - Built backends for charity clients including kindness.org and charity: water, plus a client-management system for a further charity.
 
+---
+
 ### Senior Graphics Programmer
 
 #### Sony Computer Entertainment Europe
@@ -76,6 +84,8 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Graphics programmer on Harry Potter titles for PlayStation 3 (C++/GPU), on the team responsible for special effects and integrating the art-tool pipeline.
 - Built a real-time fluid simulation for the potion cauldron, implementing the Navier-Stokes equations in shaders on the PS3 GPU.
 - Implemented the 3D mathematics for augmented-reality features using the PlayStation Eye, projecting a handheld device into in-game 3D environments.
+
+---
 
 ### Senior Developer
 
