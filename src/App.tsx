@@ -85,12 +85,14 @@ const App = () => (
           MCP connectors for SaaS products that lack them.
         </li>
         <li>
-          Rebuilt the Teacher Tapp app from an outsourced MVP (hybrid app with
-          a Microsoft SQL Server backend) into TypeScript and React Native
-          over the course of a year, establishing test-driven development and
-          agile delivery as standard practice.
+          Rebuilt the Teacher Tapp app from an outsourced MVP into TypeScript
+          and React Native over the course of a year, establishing test-driven
+          development and agile delivery as standard practice.
         </li>
-        <li>Took the School Surveys MVP to a production-grade platform.</li>
+        <li>
+          Took the School Surveys MVP to a production-grade platform in
+          TypeScript and Rust.
+        </li>
         <li>
           Now responsible for two Rust backend platforms and nine TypeScript
           web applications across the two businesses.
