@@ -29,9 +29,8 @@ const App = () => (
           raises contextualised tickets from the conversation.
         </li>
         <li>
-          <strong>MCP infrastructure:</strong> AI in the hands of everyone in
-          the business, with custom MCP connectors and proxies for the systems
-          that lacked them.
+          <strong>MCP infrastructure:</strong> custom MCP connectors and
+          proxies for the systems that lacked them.
         </li>
         <li>
           <strong>Custom integrations:</strong> energy-provider integrations at
