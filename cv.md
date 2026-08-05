@@ -14,7 +14,7 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - **Custom integrations:** on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
 - **Systems programming:** two production Rust platforms that absorb half of each day's traffic in a ten-minute window; real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
 - **Infrastructure:** owned the Terraform and Kubernetes environments at Switcher.ie; cloud infrastructure ownership continuing at Education Intelligence today.
-- **Early CI:** built an automated pull-request-to-production pipeline for up to 100 engineers at uSwitch, before mainstream CI tooling existed.
+- **Early CI:** built an automated pull-request-to-production pipeline before mainstream CI tooling existed.
 
 ## Experience
 
@@ -77,7 +77,6 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Graphics programmer on Harry Potter titles for PlayStation 3 (C++/GPU), on the team responsible for special effects and integrating the art-tool pipeline.
 - Built a real-time fluid simulation for the potion cauldron, implementing the Navier-Stokes equations in shaders on the PS3 GPU.
 - Implemented the 3D mathematics for augmented-reality features using the PlayStation Eye, projecting a handheld device into in-game 3D environments.
-- Contributed gameplay programming alongside graphics work.
 
 ### Senior Developer
 
@@ -92,9 +91,9 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 ## Skills & Technologies
 
 - **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows (Claude, Codex), multi-agent pipelines, MCP connector and proxy development, generative AI, machine learning, PyTorch
-- **Languages:** Rust, C++, TypeScript, Go, Python, C#, JavaScript, Ruby, Java, SQL
-- **Cloud & infrastructure:** AWS, Google Cloud Platform, Terraform, Kubernetes, CI/CD pipelines, preview/staging/production environment provisioning, monitoring
-- **Graphics & simulation:** GPU and shader programming, DirectX, real-time fluid simulation, 3D mathematics, augmented reality
+- **Languages:** TypeScript, Rust, Go, C++, Python, JavaScript, C#, Ruby, Java, SQL
+- **Cloud & infrastructure:** AWS, Google Cloud Platform, Azure, Terraform, Kubernetes, CI/CD pipelines, preview/staging/production environment provisioning, monitoring
+- **Graphics & simulation:** GPU and shader programming, real-time fluid simulation, 3D mathematics, augmented reality
 - **Data & integrations:** ETL pipelines, on-premise data extraction, third-party API integrations, Microsoft SQL Server, large-scale data processing
 - **Web & mobile:** React, Node.js, .NET, iOS, Android
 - **Leadership & practice:** team building and mentoring, product strategy, board reporting, agile delivery, test-driven development, service-oriented architecture

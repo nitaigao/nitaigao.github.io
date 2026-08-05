@@ -50,8 +50,8 @@ const App = () => (
         </li>
         <li>
           <strong>Early CI:</strong> built an automated
-          pull-request-to-production pipeline for up to 100 engineers at
-          uSwitch, before mainstream CI tooling existed.
+          pull-request-to-production pipeline before mainstream CI tooling
+          existed.
         </li>
       </ul>
     </section>
@@ -205,9 +205,6 @@ const App = () => (
           the PlayStation Eye, projecting a handheld device into in-game 3D
           environments.
         </li>
-        <li>
-          Contributed gameplay programming alongside graphics work.
-        </li>
       </ul>
     </section>
     <section>
@@ -242,18 +239,18 @@ const App = () => (
           AI, machine learning, PyTorch
         </li>
         <li>
-          <strong>Languages:</strong> Rust, C++, TypeScript, Go, Python, C#,
-          JavaScript, Ruby, Java, SQL
+          <strong>Languages:</strong> TypeScript, Rust, Go, C++, Python,
+          JavaScript, C#, Ruby, Java, SQL
         </li>
         <li>
           <strong>Cloud &amp; infrastructure:</strong> AWS, Google Cloud
-          Platform, Terraform, Kubernetes, CI/CD pipelines,
+          Platform, Azure, Terraform, Kubernetes, CI/CD pipelines,
           preview/staging/production environment provisioning, monitoring
         </li>
         <li>
           <strong>Graphics &amp; simulation:</strong> GPU and shader
-          programming, DirectX, real-time fluid simulation, 3D mathematics,
-          augmented reality
+          programming, real-time fluid simulation, 3D mathematics, augmented
+          reality
         </li>
         <li>
           <strong>Data &amp; integrations:</strong> ETL pipelines, on-premise
