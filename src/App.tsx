@@ -97,12 +97,6 @@ const App = () => (
           applications across the two businesses.
         </li>
         <li>
-          Engineered the platform for a spiky load profile: the daily survey
-          lands at a fixed time, so half of each day's traffic arrives within
-          the same ten-minute window and the system is designed to absorb that
-          surge every day.
-        </li>
-        <li>
           Built and led a team of engineers, mentoring each of them through to
           more senior roles.
         </li>
