@@ -13,8 +13,8 @@ Software engineer and systems programmer with over 17 years' experience, current
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
 - **Custom integrations against messy real-world systems:** a recurring career theme — on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
 - **Systems depth:** two production Rust platforms that absorb half of each day's traffic in a ten-minute window; real-time Navier–Stokes fluid simulation on the PlayStation 3 GPU.
-- **Infrastructure as part of the product:** sole owner of Terraform and Kubernetes environments at Switcher.ie; cloud infrastructure ownership continuing at Education Intelligence today.
-- **Built CI before CI was a product:** an automated pull-request-to-production pipeline serving up to 100 engineers at uSwitch.
+- **Infrastructure as part of the product:** owned the Terraform and Kubernetes environments at Switcher.ie; cloud infrastructure ownership continuing at Education Intelligence today.
+- **Early CI:** built an automated pull-request-to-production pipeline for up to 100 engineers at uSwitch, before mainstream CI tooling existed.
 
 ## Experience
 
@@ -27,12 +27,12 @@ Software engineer and systems programmer with over 17 years' experience, current
 *Education research business running the UK's largest daily teacher survey panel — thousands of teachers respond every day, and the resulting data is used by policymakers, academics and the national press.*
 
 - Leading the company's transition to an AI-native business: designed and built a multi-agent orchestration pipeline in which tickets are specified with human review, implemented autonomously by coding agents (Claude, Codex) and raised as GitHub pull requests for human review before release — LLM autonomy wrapped in hard-coded workflow logic and human gates, now the default path for shipping code.
-- Built a voice-driven project management agent that joins company calls, listens to the discussion and raises fully contextualised tickets, replacing the Kanban board entirely.
+- Built a voice-driven project management agent that joins company calls, listens to the discussion and raises fully contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP — including building a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Delivered productivity gains that have allowed the business to absorb natural attrition without replacement hires.
 - Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app with a Microsoft SQL Server backend) into a modern web platform over the course of a year, establishing test-driven development and agile delivery as standard practice.
 - Took the School Surveys MVP to a production-grade platform; now responsible for two Rust backend platforms and nine TypeScript web applications across the two businesses.
-- Engineered the platform for an unusually spiky load profile: the daily survey lands at a fixed time, so half of each day's traffic arrives within the same ten-minute window and the system is designed to absorb that surge every single day.
+- Engineered the platform for an unusually spiky load profile: the daily survey lands at a fixed time, so half of each day's traffic arrives within the same ten-minute window and the system is designed to absorb that surge every day.
 - Built and led a team of four engineers, mentoring each of them through to more senior roles.
 - Established the end-to-end product pipeline — specification, design (through a retained agency), MVP build, release and analytics — so the business can take any product idea from concept to launch as a matter of routine.
 - Attend board meetings and contribute to company strategy alongside setting technical vision and direction.
@@ -45,7 +45,7 @@ Software engineer and systems programmer with over 17 years' experience, current
 
 - Part of a small team of senior engineers building the service-oriented platform behind Ireland's leading comparison site, handling lead capture from the website.
 - Designed and built the framework for distributing leads to the various utility providers — the platform's major integration project.
-- Owned the infrastructure almost single-handedly: preview, staging and production environments and their monitoring, built with Terraform and Kubernetes.
+- Owned the infrastructure: preview, staging and production environments and their monitoring, built with Terraform and Kubernetes.
 
 ### Lead Software Engineer
 

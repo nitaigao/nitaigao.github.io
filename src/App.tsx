@@ -48,14 +48,14 @@ const App = () => (
           Navier–Stokes fluid simulation on the PlayStation 3 GPU.
         </li>
         <li>
-          <strong>Infrastructure as part of the product:</strong> sole owner of
+          <strong>Infrastructure as part of the product:</strong> owned the
           Terraform and Kubernetes environments at Switcher.ie; cloud
           infrastructure ownership continuing at Education Intelligence today.
         </li>
         <li>
-          <strong>Built CI before CI was a product:</strong> an automated
-          pull-request-to-production pipeline serving up to 100 engineers at
-          uSwitch.
+          <strong>Early CI:</strong> built an automated
+          pull-request-to-production pipeline for up to 100 engineers at
+          uSwitch, before mainstream CI tooling existed.
         </li>
       </ul>
     </section>
@@ -84,7 +84,7 @@ const App = () => (
         <li>
           Built a voice-driven project management agent that joins company
           calls, listens to the discussion and raises fully contextualised
-          tickets, replacing the Kanban board entirely.
+          tickets, replacing the Kanban board.
         </li>
         <li>
           Rolled AI out to every member of the business and connected its
@@ -110,7 +110,7 @@ const App = () => (
           Engineered the platform for an unusually spiky load profile: the
           daily survey lands at a fixed time, so half of each day's traffic
           arrives within the same ten-minute window and the system is designed
-          to absorb that surge every single day.
+          to absorb that surge every day.
         </li>
         <li>
           Built and led a team of four engineers, mentoring each of them
@@ -143,8 +143,8 @@ const App = () => (
           utility providers — the platform's major integration project.
         </li>
         <li>
-          Owned the infrastructure almost single-handedly: preview, staging and
-          production environments and their monitoring, built with Terraform and
+          Owned the infrastructure: preview, staging and production
+          environments and their monitoring, built with Terraform and
           Kubernetes.
         </li>
       </ul>
