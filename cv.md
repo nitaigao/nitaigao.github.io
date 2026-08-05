@@ -106,7 +106,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 ## Skills & Technologies
 
-- **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows (Claude, Codex), multi-agent pipelines, MCP connector and proxy development, generative AI, machine learning, PyTorch
+- **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows, multi-agent pipelines, MCP connector and proxy development, generative AI, machine learning, PyTorch
 - **Languages:** TypeScript, Rust, Go, C++, Python, JavaScript, C#, Ruby, Java, SQL
 - **Cloud & infrastructure:** AWS, Google Cloud Platform, Azure, Terraform, Kubernetes, CI/CD pipelines, preview/staging/production environment provisioning, monitoring
 - **Graphics & simulation:** GPU and shader programming, real-time fluid simulation, 3D mathematics, augmented reality

@@ -235,9 +235,9 @@ const App = () => (
       <ul>
         <li>
           <strong>AI &amp; agentic engineering:</strong> LLM orchestration and
-          prompt engineering, agentic development workflows (Claude, Codex),
-          multi-agent pipelines, MCP connector and proxy development, generative
-          AI, machine learning, PyTorch
+          prompt engineering, agentic development workflows, multi-agent
+          pipelines, MCP connector and proxy development, generative AI,
+          machine learning, PyTorch
         </li>
         <li>
           <strong>Languages:</strong> TypeScript, Rust, Go, C++, Python,
