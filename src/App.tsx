@@ -84,9 +84,9 @@ const App = () => (
           connectors for SaaS products that lack them.
         </li>
         <li>
-          Rebuilt the Teacher Tapp app from an outsourced MVP into TypeScript
-          and React Native, establishing test-driven development and agile
-          delivery as standard practice.
+          Rebuilt the Teacher Tapp app from an MVP into TypeScript and React
+          Native, establishing test-driven development and agile delivery as
+          standard practice.
         </li>
         <li>
           Took the School Surveys MVP to a production-grade platform in
