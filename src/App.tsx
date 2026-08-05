@@ -6,15 +6,13 @@ const App = () => (
     <section>
       <p>Dubai, nkostelnik@gmail.com</p>
       <p>
-        Software engineer and systems programmer with over 17 years'
-        experience, currently CTO of Education Intelligence, the research
-        business behind Teacher Tapp and School Surveys. Rebuilt the company
-        AI-native over the past few years — agentic delivery is now the default
-        way code ships — on top of a systems background spanning production
-        Rust platforms and GPU programming on PlayStation 3. A career-long
-        reputation as the engineer pointed at the hardest debugging and
-        integration problems: happiest taking something broken apart to find
-        out exactly why.
+        Software engineer and systems programmer, currently CTO of Education
+        Intelligence, the research business behind Teacher Tapp and School
+        Surveys. Rebuilt the company AI-native over the past few years —
+        agentic delivery is now the default way code ships — on top of a
+        systems background spanning production Rust platforms and GPU
+        programming on PlayStation 3. Happiest when handed something broken:
+        taking it apart to find out exactly why.
       </p>
     </section>
     <h2>Highlights</h2>
@@ -28,8 +26,7 @@ const App = () => (
         </li>
         <li>
           <strong>Voice-native project management:</strong> an agent that joins
-          company calls and raises fully contextualised tickets straight from
-          the conversation.
+          company calls and raises contextualised tickets from the conversation.
         </li>
         <li>
           <strong>MCP infrastructure:</strong> AI in the hands of everyone in
@@ -42,12 +39,12 @@ const App = () => (
           at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
         </li>
         <li>
-          <strong>Systems depth:</strong> two production Rust platforms that
+          <strong>Systems programming:</strong> two production Rust platforms that
           absorb half of each day's traffic in a ten-minute window; real-time
           Navier–Stokes fluid simulation on the PlayStation 3 GPU.
         </li>
         <li>
-          <strong>Infrastructure as part of the product:</strong> owned the
+          <strong>Infrastructure:</strong> owned the
           Terraform and Kubernetes environments at Switcher.ie; cloud
           infrastructure ownership continuing at Education Intelligence today.
         </li>
@@ -73,17 +70,14 @@ const App = () => (
       </p>
       <ul>
         <li>
-          Leading the company's transition to an AI-native business: designed
-          and built a multi-agent orchestration pipeline in which tickets are
-          specified with human review, implemented autonomously by coding
-          agents (Claude, Codex) and raised as GitHub pull requests for human
-          review before release — LLM autonomy wrapped in hard-coded workflow
-          logic and human gates, now the default path for shipping code.
+          Designed and built a multi-agent pipeline where coding agents
+          (Claude, Codex) implement human-specified tickets and raise pull
+          requests for review — now the default way code ships.
         </li>
         <li>
           Built a voice-driven project management agent that joins company
-          calls, listens to the discussion and raises fully contextualised
-          tickets, replacing the Kanban board.
+          calls, listens to the discussion and raises contextualised tickets,
+          replacing the Kanban board.
         </li>
         <li>
           Rolled AI out to every member of the business and connected its
@@ -106,8 +100,8 @@ const App = () => (
           applications across the two businesses.
         </li>
         <li>
-          Engineered the platform for an unusually spiky load profile: the
-          daily survey lands at a fixed time, so half of each day's traffic
+          Engineered the platform for a spiky load profile: the daily survey
+          lands at a fixed time, so half of each day's traffic
           arrives within the same ten-minute window and the system is designed
           to absorb that surge every day.
         </li>
@@ -118,8 +112,7 @@ const App = () => (
         <li>
           Established the end-to-end product pipeline — specification, design
           (through a retained agency), MVP build, release and analytics — so the
-          business can take any product idea from concept to launch as a matter
-          of routine.
+          business can take products from concept to launch.
         </li>
         <li>
           Attend board meetings and contribute to company strategy alongside
@@ -138,8 +131,8 @@ const App = () => (
           capture from the website.
         </li>
         <li>
-          Designed and built the framework for distributing leads to the various
-          utility providers — the platform's major integration project.
+          Designed and built the framework for distributing leads to the
+          utility providers.
         </li>
         <li>
           Owned the infrastructure: preview, staging and production
@@ -154,14 +147,14 @@ const App = () => (
       <div>January 2016 – March 2019 · London</div>
       <ul>
         <li>
-          Helped establish the company itself: structured as a 50/50 partnership
+          Helped establish the company: structured as a 50/50 partnership
           between NEON's investment arm and an education provider, with the
           platform built from the ground up.
         </li>
         <li>
           Designed and built the MIS Connector, a .NET ETL system running on
-          servers inside schools, extracting management information data and
-          syncing it securely to the cloud.
+          servers inside schools, extracting sensitive management information
+          data and syncing it to the cloud.
         </li>
         <li>
           Wrote the cloud processing pipeline that turned raw school data into a
@@ -180,8 +173,8 @@ const App = () => (
       <div>January 2014 – January 2017 · London &amp; New York</div>
       <ul>
         <li>
-          Consulted across a range of client projects for a venture studio,
-          spanning charities and consumer brands.
+          Consulted on client projects for a venture studio, spanning charities
+          and consumer brands.
         </li>
         <li>
           Built an interactive 3D bike viewer for a professional cycling team's
@@ -213,8 +206,7 @@ const App = () => (
           environments.
         </li>
         <li>
-          Contributed gameplay programming alongside graphics work; the team was
-          the port of call for any graphical requirement on the project.
+          Contributed gameplay programming alongside graphics work.
         </li>
       </ul>
     </section>
@@ -229,9 +221,9 @@ const App = () => (
           providers.
         </li>
         <li>
-          Built the company's internal deployment system in the earliest days of
-          continuous integration: pull requests from up to 100 engineers
-          triggered an automated pipeline through to production.
+          Built the company's internal deployment system: pull requests from up
+          to 100 engineers triggered an automated pipeline through to
+          production.
         </li>
         <li>
           Founded and ran an iOS games studio within Forward's incubator: hired
