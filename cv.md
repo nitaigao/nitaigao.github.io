@@ -1,6 +1,6 @@
 # Nicholas Ashford
 
-Dubai · nkostelnik@gmail.com
+nkostelnik@gmail.com
 
 ## Profile
 

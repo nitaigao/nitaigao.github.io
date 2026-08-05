@@ -4,7 +4,7 @@ const App = () => (
   <main className={styles.container}>
     <h1>Nicholas Ashford</h1>
     <section>
-      <p>Dubai, nkostelnik@gmail.com</p>
+      <p>nkostelnik@gmail.com</p>
       <p>
         Software engineer and systems programmer, currently CTO of Education
         Intelligence, the research business behind Teacher Tapp and School
