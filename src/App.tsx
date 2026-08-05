@@ -178,7 +178,7 @@ const App = () => (
           and consumer brands.
         </li>
         <li>
-          Built an interactive 3D visualisation for a professional cycling
+          Built interactive 3D visualisations for a professional cycling
           team's website, at a time when 3D in the browser was still rare.
         </li>
         <li>
