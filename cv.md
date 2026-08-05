@@ -4,13 +4,13 @@ nkostelnik@gmail.com
 
 ## Profile
 
-Software engineer and systems programmer, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys. Rebuilt the company AI-native over the past few years: agentic delivery is now the default way code ships. That sits on top of a systems background spanning production Rust platforms and GPU programming on PlayStation 3. Happy to be handed a challenge or something broken: taking it apart to find out exactly why.
+Software engineer and systems programmer, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys. Rebuilt the company AI-native over the past few years. That sits on top of a systems background spanning production Rust platforms and GPU programming on PlayStation 3. Happy to be handed a challenge or something broken: taking it apart to find out exactly why.
 
 ---
 
 ## Highlights
 
-- **Agentic delivery:** built the multi-agent pipeline that is now the default way code ships at Education Intelligence, with productivity gains that have let the business absorb natural attrition without replacement hires.
+- **Agentic delivery:** built the multi-agent pipeline that ships code at Education Intelligence, with productivity gains that have let the business absorb natural attrition without replacement hires.
 - **Voice agent:** joins company calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
 - **Custom integrations:** on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
@@ -30,7 +30,7 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 
 *Education research business running the UK's largest daily teacher survey panel: thousands of teachers respond every day, and the resulting data is used by policymakers, academics and the national press.*
 
-- Designed and built a multi-agent pipeline where coding agents (Claude, Codex) implement human-specified tickets and raise pull requests for review, now the default way code ships.
+- Designed and built a multi-agent pipeline where coding agents (Claude, Codex) implement human-specified tickets and raise pull requests for review.
 - Built a voice-driven project management agent that joins company calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app with a Microsoft SQL Server backend) into a modern web platform over the course of a year, establishing test-driven development and agile delivery as standard practice.

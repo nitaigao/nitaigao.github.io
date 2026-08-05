@@ -8,10 +8,9 @@ const App = () => (
       <p>
         Software engineer and systems programmer, currently CTO of Education
         Intelligence, the research business behind Teacher Tapp and School
-        Surveys. Rebuilt the company AI-native over the past few years:
-        agentic delivery is now the default way code ships. That sits on top
-        of a systems background spanning production Rust platforms and GPU
-        programming on PlayStation 3. Happy to be handed a challenge or
+        Surveys. Rebuilt the company AI-native over the past few years. That
+        sits on top of a systems background spanning production Rust platforms
+        and GPU programming on PlayStation 3. Happy to be handed a challenge or
         something broken: taking it apart to find out exactly why.
       </p>
     </section>
@@ -21,9 +20,9 @@ const App = () => (
       <ul>
         <li>
           <strong>Agentic delivery:</strong> built the multi-agent pipeline
-          that is now the default way code ships at Education Intelligence,
-          with productivity gains that have let the business absorb natural
-          attrition without replacement hires.
+          that ships code at Education Intelligence, with productivity gains
+          that have let the business absorb natural attrition without
+          replacement hires.
         </li>
         <li>
           <strong>Voice agent:</strong> joins company calls and raises
@@ -74,7 +73,7 @@ const App = () => (
         <li>
           Designed and built a multi-agent pipeline where coding agents
           (Claude, Codex) implement human-specified tickets and raise pull
-          requests for review, now the default way code ships.
+          requests for review.
         </li>
         <li>
           Built a voice-driven project management agent that joins company
