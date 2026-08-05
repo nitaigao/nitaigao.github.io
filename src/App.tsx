@@ -8,9 +8,9 @@ const App = () => (
       <p>
         Software engineer and systems programmer, currently CTO of Education
         Intelligence, the research business behind Teacher Tapp and School
-        Surveys. Rebuilt the company AI-native over the past few years —
-        agentic delivery is now the default way code ships — on top of a
-        systems background spanning production Rust platforms and GPU
+        Surveys. Rebuilt the company AI-native over the past few years:
+        agentic delivery is now the default way code ships. That sits on top
+        of a systems background spanning production Rust platforms and GPU
         programming on PlayStation 3. Happy to be handed a challenge or
         something broken: taking it apart to find out exactly why.
       </p>
@@ -19,14 +19,14 @@ const App = () => (
     <section>
       <ul>
         <li>
-          <strong>Agentic software delivery in production:</strong> built the
-          multi-agent pipeline that is now the default way code ships at
-          Education Intelligence — with productivity gains that have let the
-          business absorb natural attrition without replacement hires.
+          <strong>Agentic delivery:</strong> built the multi-agent pipeline
+          that is now the default way code ships at Education Intelligence,
+          with productivity gains that have let the business absorb natural
+          attrition without replacement hires.
         </li>
         <li>
-          <strong>Voice-native project management:</strong> an agent that joins
-          company calls and raises contextualised tickets from the conversation.
+          <strong>Voice agent:</strong> joins company calls and raises
+          contextualised tickets from the conversation.
         </li>
         <li>
           <strong>MCP infrastructure:</strong> AI in the hands of everyone in
@@ -34,14 +34,14 @@ const App = () => (
           that lacked them.
         </li>
         <li>
-          <strong>Custom integrations against messy real-world systems:</strong>{" "}
-          on-prem data extraction inside schools, utility-provider integrations
-          at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
+          <strong>Custom integrations:</strong> on-prem data extraction inside
+          schools, utility-provider integrations at Switcher.ie and uSwitch,
+          MCP proxies for closed SaaS products.
         </li>
         <li>
           <strong>Systems programming:</strong> two production Rust platforms that
           absorb half of each day's traffic in a ten-minute window; real-time
-          Navier–Stokes fluid simulation on the PlayStation 3 GPU.
+          Navier-Stokes fluid simulation on the PlayStation 3 GPU.
         </li>
         <li>
           <strong>Infrastructure:</strong> owned the
@@ -63,7 +63,7 @@ const App = () => (
       <p>
         <em>
           Education research business running the UK's largest daily teacher
-          survey panel — thousands of teachers respond every day, and the
+          survey panel: thousands of teachers respond every day, and the
           resulting data is used by policymakers, academics and the national
           press.
         </em>
@@ -72,7 +72,7 @@ const App = () => (
         <li>
           Designed and built a multi-agent pipeline where coding agents
           (Claude, Codex) implement human-specified tickets and raise pull
-          requests for review — now the default way code ships.
+          requests for review, now the default way code ships.
         </li>
         <li>
           Built a voice-driven project management agent that joins company
@@ -81,8 +81,8 @@ const App = () => (
         </li>
         <li>
           Rolled AI out to every member of the business and connected its
-          systems to Claude via MCP — including building a proxy service that
-          exposes MCP connectors for SaaS products that lack them.
+          systems to Claude via MCP, including a proxy service that exposes
+          MCP connectors for SaaS products that lack them.
         </li>
         <li>
           Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app
@@ -110,8 +110,8 @@ const App = () => (
           natural attrition without replacement hires.
         </li>
         <li>
-          Established the end-to-end product pipeline — specification, design
-          (through a retained agency), MVP build, release and analytics — so the
+          Established the end-to-end product pipeline (specification, design
+          through a retained agency, MVP build, release and analytics) so the
           business can take products from concept to launch.
         </li>
         <li>
@@ -198,7 +198,7 @@ const App = () => (
         </li>
         <li>
           Built a real-time fluid simulation for the potion cauldron,
-          implementing the Navier–Stokes equations in shaders on the PS3 GPU.
+          implementing the Navier-Stokes equations in shaders on the PS3 GPU.
         </li>
         <li>
           Implemented the 3D mathematics for augmented-reality features using

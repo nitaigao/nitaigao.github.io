@@ -4,15 +4,15 @@ Dubai · nkostelnik@gmail.com
 
 ## Profile
 
-Software engineer and systems programmer, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys. Rebuilt the company AI-native over the past few years — agentic delivery is now the default way code ships — on top of a systems background spanning production Rust platforms and GPU programming on PlayStation 3. Happy to be handed a challenge or something broken: taking it apart to find out exactly why.
+Software engineer and systems programmer, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys. Rebuilt the company AI-native over the past few years: agentic delivery is now the default way code ships. That sits on top of a systems background spanning production Rust platforms and GPU programming on PlayStation 3. Happy to be handed a challenge or something broken: taking it apart to find out exactly why.
 
 ## Highlights
 
-- **Agentic software delivery in production:** built the multi-agent pipeline that is now the default way code ships at Education Intelligence — with productivity gains that have let the business absorb natural attrition without replacement hires.
-- **Voice-native project management:** an agent that joins company calls and raises contextualised tickets from the conversation.
+- **Agentic delivery:** built the multi-agent pipeline that is now the default way code ships at Education Intelligence, with productivity gains that have let the business absorb natural attrition without replacement hires.
+- **Voice agent:** joins company calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
-- **Custom integrations against messy real-world systems:** on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
-- **Systems programming:** two production Rust platforms that absorb half of each day's traffic in a ten-minute window; real-time Navier–Stokes fluid simulation on the PlayStation 3 GPU.
+- **Custom integrations:** on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
+- **Systems programming:** two production Rust platforms that absorb half of each day's traffic in a ten-minute window; real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
 - **Infrastructure:** owned the Terraform and Kubernetes environments at Switcher.ie; cloud infrastructure ownership continuing at Education Intelligence today.
 - **Early CI:** built an automated pull-request-to-production pipeline for up to 100 engineers at uSwitch, before mainstream CI tooling existed.
 
@@ -24,17 +24,17 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 
 *January 2021 – Present*
 
-*Education research business running the UK's largest daily teacher survey panel — thousands of teachers respond every day, and the resulting data is used by policymakers, academics and the national press.*
+*Education research business running the UK's largest daily teacher survey panel: thousands of teachers respond every day, and the resulting data is used by policymakers, academics and the national press.*
 
-- Designed and built a multi-agent pipeline where coding agents (Claude, Codex) implement human-specified tickets and raise pull requests for review — now the default way code ships.
+- Designed and built a multi-agent pipeline where coding agents (Claude, Codex) implement human-specified tickets and raise pull requests for review, now the default way code ships.
 - Built a voice-driven project management agent that joins company calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
-- Rolled AI out to every member of the business and connected its systems to Claude via MCP — including building a proxy service that exposes MCP connectors for SaaS products that lack them.
+- Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app with a Microsoft SQL Server backend) into a modern web platform over the course of a year, establishing test-driven development and agile delivery as standard practice.
 - Took the School Surveys MVP to a production-grade platform; now responsible for two Rust backend platforms and nine TypeScript web applications across the two businesses.
 - Engineered the platform for a spiky load profile: the daily survey lands at a fixed time, so half of each day's traffic arrives within the same ten-minute window and the system is designed to absorb that surge every day.
 - Built and led a team of four engineers, mentoring each of them through to more senior roles.
 - Delivered productivity gains that have allowed the business to absorb natural attrition without replacement hires.
-- Established the end-to-end product pipeline — specification, design (through a retained agency), MVP build, release and analytics — so the business can take products from concept to launch.
+- Established the end-to-end product pipeline (specification, design through a retained agency, MVP build, release and analytics) so the business can take products from concept to launch.
 - Attend board meetings and contribute to company strategy alongside setting technical vision and direction.
 
 ### Senior Software Engineer
@@ -75,7 +75,7 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 *February 2012 – January 2014 · London*
 
 - Graphics programmer on Harry Potter titles for PlayStation 3 (C++/GPU), on the team responsible for special effects and integrating the art-tool pipeline.
-- Built a real-time fluid simulation for the potion cauldron, implementing the Navier–Stokes equations in shaders on the PS3 GPU.
+- Built a real-time fluid simulation for the potion cauldron, implementing the Navier-Stokes equations in shaders on the PS3 GPU.
 - Implemented the 3D mathematics for augmented-reality features using the PlayStation Eye, projecting a handheld device into in-game 3D environments.
 - Contributed gameplay programming alongside graphics work.
 
