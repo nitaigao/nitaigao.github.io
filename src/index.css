@@ -20,7 +20,7 @@ ul {
   padding-left: 30px;
   display: flex;
   flex-direction: column;
-  gap: 10px
+  gap: 7px
 }
 
 h1 {
@@ -34,8 +34,7 @@ h2 {
 }
 
 h3 {
-    margin: 10px 0;
-
+  margin: 10px 0 0;
   padding: 0;
 }
 
