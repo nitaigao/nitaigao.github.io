@@ -26,8 +26,8 @@ const App = () => (
           absorb natural attrition without replacement hires.
         </li>
         <li>
-          <strong>Voice agent:</strong> joins company calls and raises
-          contextualised tickets from the conversation.
+          <strong>Voice agent:</strong> joins project management calls and
+          raises contextualised tickets from the conversation.
         </li>
         <li>
           <strong>MCP infrastructure:</strong> AI in the hands of everyone in

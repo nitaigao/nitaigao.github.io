@@ -11,7 +11,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 ## Highlights
 
 - **Agentic delivery:** built a multi-agent software factory pipeline, with productivity gains that have let the business absorb natural attrition without replacement hires.
-- **Voice agent:** joins company calls and raises contextualised tickets from the conversation.
+- **Voice agent:** joins project management calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
 - **Custom integrations:** on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
 - **Systems programming:** two production Rust platforms that absorb half of each day's traffic in a ten-minute window; real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
