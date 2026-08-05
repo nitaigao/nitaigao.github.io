@@ -99,4 +99,4 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 
 ## Location
 
-Dubai, willing to relocate to Malta (EU right to work through spouse).
+Dubai. Open to relocating to Malta if required (EU right to work through spouse).
