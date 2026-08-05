@@ -34,7 +34,7 @@ const App = () => (
           that lacked them.
         </li>
         <li>
-          <strong>Custom integrations:</strong> provider integrations at
+          <strong>Custom integrations:</strong> energy-provider integrations at
           Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP
           proxies for closed SaaS products.
         </li>
