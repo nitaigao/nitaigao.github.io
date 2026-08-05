@@ -10,7 +10,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 ## Highlights
 
-- **Agentic delivery:** built the multi-agent pipeline that ships code at Education Intelligence, with productivity gains that have let the business absorb natural attrition without replacement hires.
+- **Agentic delivery:** built a multi-agent pipeline that ships code, with productivity gains that have let the business absorb natural attrition without replacement hires.
 - **Voice agent:** joins company calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
 - **Custom integrations:** on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
