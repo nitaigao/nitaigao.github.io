@@ -11,9 +11,8 @@ const App = () => (
         School Surveys, where the platform is built in TypeScript and Rust.
         Over the past year I've rebuilt the company to be AI-native, work that
         sits on top of a systems background spanning production Rust platforms
-        and GPU programming on the PlayStation 3. I'm always happy to be
-        handed a challenge or something broken, and to take it apart to find
-        out exactly why.
+        and GPU programming. I'm always happy to be handed a challenge or
+        something broken, and to take it apart to find out exactly why.
       </p>
     </section>
     <hr />
