@@ -3,17 +3,16 @@ import styles from "./App.module.css"
 const App = () => (
   <main className={styles.container}>
     <h1>Nicholas Ashford</h1>
+    <p>nick@nickashford.com</p>
     <section>
-      <p>nick@nickashford.com</p>
       <p>
         I'm a software engineer and systems programmer, currently CTO of
         Education Intelligence, the research business behind Teacher Tapp and
-        School Surveys, where the platform is built in TypeScript and Rust.
-        Over the past year I've rebuilt the company to be AI-native: agents
-        now implement our tickets, sit in our planning calls, and connect to
-        every system in the business. I'm always happy to be handed a
-        challenge or something broken, and to take it apart to find out
-        exactly why.
+        School Surveys, where the platform is built in TypeScript and Rust. Over
+        the past year I've rebuilt the company to be AI-native: agents now
+        implement our tickets, sit in our planning calls, and connect to every
+        system in the business. I'm always happy to be handed a challenge or
+        something broken, and to take it apart to find out exactly why.
       </p>
     </section>
     <hr />
@@ -36,8 +35,8 @@ const App = () => (
         </li>
         <li>
           <strong>Custom integrations:</strong> on-prem data extraction inside
-          schools, utility-provider integrations at Switcher.ie and uSwitch,
-          MCP proxies for closed SaaS products.
+          schools, utility-provider integrations at Switcher.ie and uSwitch, MCP
+          proxies for closed SaaS products.
         </li>
         <li>
           <strong>Systems programming:</strong> two production Rust platforms
@@ -72,8 +71,7 @@ const App = () => (
       <ul>
         <li>
           Designed and built a multi-agent pipeline where coding agents
-          implement human-specified tickets and raise pull requests for
-          review.
+          implement human-specified tickets and raise pull requests for review.
         </li>
         <li>
           Built a voice-driven project management agent that joins company
@@ -82,8 +80,8 @@ const App = () => (
         </li>
         <li>
           Rolled AI out to every member of the business and connected its
-          systems to Claude via MCP, including a proxy service that exposes
-          MCP connectors for SaaS products that lack them.
+          systems to Claude via MCP, including a proxy service that exposes MCP
+          connectors for SaaS products that lack them.
         </li>
         <li>
           Rebuilt the Teacher Tapp app from an outsourced MVP into TypeScript
@@ -100,9 +98,9 @@ const App = () => (
         </li>
         <li>
           Engineered the platform for a spiky load profile: the daily survey
-          lands at a fixed time, so half of each day's traffic
-          arrives within the same ten-minute window and the system is designed
-          to absorb that surge every day.
+          lands at a fixed time, so half of each day's traffic arrives within
+          the same ten-minute window and the system is designed to absorb that
+          surge every day.
         </li>
         <li>
           Built and led a team of engineers, mentoring each of them through to
@@ -131,13 +129,12 @@ const App = () => (
           capture from the website.
         </li>
         <li>
-          Designed and built the framework for distributing leads to the
-          utility providers.
+          Designed and built the framework for distributing leads to the utility
+          providers.
         </li>
         <li>
-          Owned the infrastructure: preview, staging and production
-          environments and their monitoring, built with Terraform and
-          Kubernetes on AWS.
+          Owned the infrastructure: preview, staging and production environments
+          and their monitoring, built with Terraform and Kubernetes on AWS.
         </li>
       </ul>
     </section>
@@ -179,8 +176,8 @@ const App = () => (
           and consumer brands.
         </li>
         <li>
-          Built interactive 3D visualisations for a professional cycling
-          team's website, at a time when 3D in the browser was still rare.
+          Built interactive 3D visualisations for a professional cycling team's
+          website, at a time when 3D in the browser was still rare.
         </li>
         <li>
           Built backends for charity clients including kindness.org and charity:
@@ -275,8 +272,8 @@ const App = () => (
     <h2>Location</h2>
     <section>
       <p>
-        Dubai. Open to relocating to Malta if required (EU right to work
-        through spouse).
+        Dubai. Open to relocating to Malta if required (EU right to work through
+        spouse).
       </p>
     </section>
   </main>

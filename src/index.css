@@ -48,3 +48,28 @@ section {
   margin: 20px 0 30px 0;
   padding: 0;
 }
+
+@media print {
+  html {
+    font-size: 12px;
+  }
+
+  body {
+    margin: 0;
+    max-width: none;
+  }
+
+  h1 {
+    margin-top: 0;
+  }
+
+  h2,
+  h3,
+  h4 {
+    break-after: avoid;
+  }
+
+  li {
+    break-inside: avoid;
+  }
+}
