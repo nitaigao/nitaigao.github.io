@@ -6,6 +6,8 @@ nkostelnik@gmail.com
 
 Software engineer and systems programmer, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys. Rebuilt the company AI-native over the past few years: agentic delivery is now the default way code ships. That sits on top of a systems background spanning production Rust platforms and GPU programming on PlayStation 3. Happy to be handed a challenge or something broken: taking it apart to find out exactly why.
 
+---
+
 ## Highlights
 
 - **Agentic delivery:** built the multi-agent pipeline that is now the default way code ships at Education Intelligence, with productivity gains that have let the business absorb natural attrition without replacement hires.
@@ -15,6 +17,8 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - **Systems programming:** two production Rust platforms that absorb half of each day's traffic in a ten-minute window; real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
 - **Infrastructure:** owned the Terraform and Kubernetes environments at Switcher.ie; cloud infrastructure ownership continuing at Education Intelligence today.
 - **Early CI:** built an automated pull-request-to-production pipeline before mainstream CI tooling existed.
+
+---
 
 ## Experience
 
@@ -97,6 +101,8 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Built the company's internal deployment system: pull requests from up to 100 engineers triggered an automated pipeline through to production.
 - Founded and ran an iOS games studio within Forward's incubator: hired the team, then led development, release and marketing of a C++ iOS game over the course of a year.
 
+---
+
 ## Skills & Technologies
 
 - **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows (Claude, Codex), multi-agent pipelines, MCP connector and proxy development, generative AI, machine learning, PyTorch
@@ -106,6 +112,8 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - **Data & integrations:** ETL pipelines, on-premise data extraction, third-party API integrations, Microsoft SQL Server, large-scale data processing
 - **Web & mobile:** React, Node.js, .NET, iOS, Android
 - **Leadership & practice:** team building and mentoring, product strategy, board reporting, agile delivery, test-driven development, service-oriented architecture
+
+---
 
 ## Location
 

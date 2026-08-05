@@ -10,6 +10,12 @@ body {
   max-width: 960px;
 }
 
+hr {
+  margin: 20px 0;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
 ul {
   padding-left: 30px;
   display: flex;

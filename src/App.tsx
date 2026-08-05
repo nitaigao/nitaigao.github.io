@@ -15,6 +15,7 @@ const App = () => (
         something broken: taking it apart to find out exactly why.
       </p>
     </section>
+    <hr />
     <h2>Highlights</h2>
     <section>
       <ul>
@@ -55,6 +56,7 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <hr />
     <h2>Relevant Experience</h2>
     <section>
       <h3>Chief Technology Officer</h3>
@@ -230,6 +232,7 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <hr />
     <h2>Skills &amp; Technologies</h2>
     <section>
       <ul>
@@ -268,6 +271,7 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <hr />
     <h2>Location</h2>
     <section>
       <p>
