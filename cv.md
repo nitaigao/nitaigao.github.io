@@ -88,7 +88,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 - Graphics programmer on Harry Potter titles for PlayStation 3 (C++/GPU), on the team responsible for special effects and integrating the art-tool pipeline.
 - Built a real-time fluid simulation for the potion cauldron, implementing the Navier-Stokes equations in shaders on the PS3 GPU.
-- Implemented the 3D mathematics for augmented-reality features using the PlayStation Eye, projecting a handheld device into in-game 3D environments.
+- Implemented augmented-reality features using the PlayStation Eye, projecting a handheld device into in-game 3D environments.
 
 ---
 

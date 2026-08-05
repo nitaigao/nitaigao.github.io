@@ -203,9 +203,8 @@ const App = () => (
           implementing the Navier-Stokes equations in shaders on the PS3 GPU.
         </li>
         <li>
-          Implemented the 3D mathematics for augmented-reality features using
-          the PlayStation Eye, projecting a handheld device into in-game 3D
-          environments.
+          Implemented augmented-reality features using the PlayStation Eye,
+          projecting a handheld device into in-game 3D environments.
         </li>
       </ul>
     </section>
