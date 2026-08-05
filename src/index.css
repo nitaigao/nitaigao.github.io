@@ -72,4 +72,8 @@ section {
   li {
     break-inside: avoid;
   }
+
+  section {
+    break-inside: avoid;
+  }
 }
