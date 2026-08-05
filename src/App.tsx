@@ -44,9 +44,10 @@ const App = () => (
           Navier-Stokes fluid simulation on the PlayStation 3 GPU.
         </li>
         <li>
-          <strong>Infrastructure:</strong> owned the
-          Terraform and Kubernetes environments at Switcher.ie; cloud
-          infrastructure ownership continuing at Education Intelligence today.
+          <strong>Infrastructure:</strong> owned the Terraform and Kubernetes
+          environments at Switcher.ie; cloud infrastructure ownership
+          continuing at Education Intelligence today, across AWS, Google Cloud
+          and Azure.
         </li>
         <li>
           <strong>Early CI:</strong> built an automated
