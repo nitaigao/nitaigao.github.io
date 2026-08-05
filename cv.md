@@ -33,7 +33,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 - Designed and built a multi-agent pipeline where coding agents implement human-specified tickets and raise pull requests for review.
 - Built a voice-driven project management agent that joins company calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
-- Rebuilt the Teacher Tapp app from an outsourced MVP into TypeScript and React Native over the course of a year, establishing test-driven development and agile delivery as standard practice.
+- Rebuilt the Teacher Tapp app from an outsourced MVP into TypeScript and React Native, establishing test-driven development and agile delivery as standard practice.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
 - Now responsible for two Rust backend platforms and nine TypeScript applications across the two businesses.
 - Engineered the platform for a spiky load profile: the daily survey lands at a fixed time, so half of each day's traffic arrives within the same ten-minute window and the system is designed to absorb that surge every day.

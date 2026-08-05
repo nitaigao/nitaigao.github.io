@@ -3,7 +3,7 @@ import styles from "./App.module.css"
 const App = () => (
   <main className={styles.container}>
     <h1>Nicholas Ashford</h1>
-    <p>nick@nickashford.com</p>
+    <a href="mailto:nick@nickashford.com">nick@nickashford.com</a>
     <section>
       <p>
         I'm a software engineer and systems programmer, currently CTO of
@@ -85,8 +85,8 @@ const App = () => (
         </li>
         <li>
           Rebuilt the Teacher Tapp app from an outsourced MVP into TypeScript
-          and React Native over the course of a year, establishing test-driven
-          development and agile delivery as standard practice.
+          and React Native, establishing test-driven development and agile
+          delivery as standard practice.
         </li>
         <li>
           Took the School Surveys MVP to a production-grade platform in
