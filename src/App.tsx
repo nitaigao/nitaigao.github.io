@@ -8,7 +8,8 @@ const App = () => (
       <p>
         Software engineer and systems programmer, currently CTO of Education
         Intelligence, the research business behind Teacher Tapp and School
-        Surveys. Rebuilt the company AI-native over the past few years. That
+        Surveys, where the platform is TypeScript and Rust. Rebuilt the
+        company AI-native over the past few years. That
         sits on top of a systems background spanning production Rust platforms
         and GPU programming on PlayStation 3. Happy to be handed a challenge or
         something broken: taking it apart to find out exactly why.
@@ -86,15 +87,15 @@ const App = () => (
           MCP connectors for SaaS products that lack them.
         </li>
         <li>
-          Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app
-          with a Microsoft SQL Server backend) into a modern web platform over
-          the course of a year, establishing test-driven development and agile
-          delivery as standard practice.
+          Rebuilt the Teacher Tapp app from an outsourced MVP (hybrid app with
+          a Microsoft SQL Server backend) into TypeScript and React Native
+          over the course of a year, establishing test-driven development and
+          agile delivery as standard practice.
         </li>
+        <li>Took the School Surveys MVP to a production-grade platform.</li>
         <li>
-          Took the School Surveys MVP to a production-grade platform; now
-          responsible for two Rust backend platforms and nine TypeScript web
-          applications across the two businesses.
+          Now responsible for two Rust backend platforms and nine TypeScript
+          web applications across the two businesses.
         </li>
         <li>
           Engineered the platform for a spiky load profile: the daily survey
