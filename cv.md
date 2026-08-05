@@ -15,7 +15,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
 - **Custom integrations:** on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
 - **Systems programming:** two production Rust platforms that absorb half of each day's traffic in a ten-minute window; real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
-- **Infrastructure:** owned the Terraform and Kubernetes environments at Switcher.ie; cloud infrastructure ownership continuing at Education Intelligence today, across AWS, Google Cloud and Azure.
+- **Infrastructure:** owned cloud infrastructure across AWS, Google Cloud and Azure, built with Terraform and Kubernetes.
 - **Early CI:** built an automated pull-request-to-production pipeline before mainstream CI tooling existed.
 
 ---
