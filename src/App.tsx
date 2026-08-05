@@ -40,9 +40,9 @@ const App = () => (
           MCP proxies for closed SaaS products.
         </li>
         <li>
-          <strong>Systems programming:</strong> two production Rust platforms that
-          absorb half of each day's traffic in a ten-minute window; real-time
-          Navier-Stokes fluid simulation on the PlayStation 3 GPU.
+          <strong>Systems programming:</strong> two production Rust platforms
+          that absorb extremely spiky traffic; real-time Navier-Stokes fluid
+          simulation on the PlayStation 3 GPU.
         </li>
         <li>
           <strong>Infrastructure:</strong> owned cloud infrastructure across
