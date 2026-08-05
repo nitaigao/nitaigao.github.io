@@ -22,7 +22,7 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 
 ## Experience
 
-### Chief Technology Officer
+### CTO & Lead Engineer
 
 #### Education Intelligence (Teacher Tapp & School Surveys)
 

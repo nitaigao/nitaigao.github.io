@@ -58,7 +58,7 @@ const App = () => (
     <hr />
     <h2>Relevant Experience</h2>
     <section>
-      <h3>Chief Technology Officer</h3>
+      <h3>CTO &amp; Lead Engineer</h3>
       <h4>Education Intelligence (Teacher Tapp &amp; School Surveys)</h4>
       <div>January 2021 – Present</div>
       <p>
