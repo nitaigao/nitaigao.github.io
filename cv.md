@@ -11,7 +11,7 @@ Software engineer and systems programmer with over 17 years' experience, current
 - **Agentic software delivery in production:** built the multi-agent pipeline that is now the default way code ships at Education Intelligence — with productivity gains that have let the business absorb natural attrition without replacement hires.
 - **Voice-native project management:** an agent that joins company calls and raises fully contextualised tickets straight from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
-- **Custom integrations against messy real-world systems:** a recurring career theme — on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
+- **Custom integrations against messy real-world systems:** on-prem data extraction inside schools, utility-provider integrations at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
 - **Systems depth:** two production Rust platforms that absorb half of each day's traffic in a ten-minute window; real-time Navier–Stokes fluid simulation on the PlayStation 3 GPU.
 - **Infrastructure as part of the product:** owned the Terraform and Kubernetes environments at Switcher.ie; cloud infrastructure ownership continuing at Education Intelligence today.
 - **Early CI:** built an automated pull-request-to-production pipeline for up to 100 engineers at uSwitch, before mainstream CI tooling existed.

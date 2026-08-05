@@ -38,9 +38,8 @@ const App = () => (
         </li>
         <li>
           <strong>Custom integrations against messy real-world systems:</strong>{" "}
-          a recurring career theme — on-prem data extraction inside schools,
-          utility-provider integrations at Switcher.ie and uSwitch, MCP proxies
-          for closed SaaS products.
+          on-prem data extraction inside schools, utility-provider integrations
+          at Switcher.ie and uSwitch, MCP proxies for closed SaaS products.
         </li>
         <li>
           <strong>Systems depth:</strong> two production Rust platforms that
