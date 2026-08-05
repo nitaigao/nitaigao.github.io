@@ -21,8 +21,9 @@ const App = () => (
     <section>
       <ul>
         <li>
-          <strong>Agentic delivery:</strong> built a multi-agent pipeline that
-          ships code, with productivity gains that have let the business absorb
+          <strong>Agentic delivery:</strong> built a multi-agent pipeline where
+          coding agents implement tickets and raise pull requests for human
+          review, with productivity gains that have let the business absorb
           natural attrition without replacement hires.
         </li>
         <li>
