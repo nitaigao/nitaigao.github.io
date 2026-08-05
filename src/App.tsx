@@ -136,7 +136,7 @@ const App = () => (
         <li>
           Owned the infrastructure: preview, staging and production
           environments and their monitoring, built with Terraform and
-          Kubernetes.
+          Kubernetes on AWS.
         </li>
       </ul>
     </section>

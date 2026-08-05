@@ -51,7 +51,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 - Part of a small team of senior engineers building the service-oriented platform behind Ireland's leading comparison site, handling lead capture from the website.
 - Designed and built the framework for distributing leads to the utility providers.
-- Owned the infrastructure: preview, staging and production environments and their monitoring, built with Terraform and Kubernetes.
+- Owned the infrastructure: preview, staging and production environments and their monitoring, built with Terraform and Kubernetes on AWS.
 
 ---
 
