@@ -4,7 +4,7 @@ Dubai · nkostelnik@gmail.com
 
 ## Profile
 
-Software engineer and systems programmer, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys. Rebuilt the company AI-native over the past few years — agentic delivery is now the default way code ships — on top of a systems background spanning production Rust platforms and GPU programming on PlayStation 3. Happiest when handed something broken: taking it apart to find out exactly why.
+Software engineer and systems programmer, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys. Rebuilt the company AI-native over the past few years — agentic delivery is now the default way code ships — on top of a systems background spanning production Rust platforms and GPU programming on PlayStation 3. Happy to be handed a challenge or something broken: taking it apart to find out exactly why.
 
 ## Highlights
 

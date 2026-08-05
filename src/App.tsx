@@ -11,8 +11,8 @@ const App = () => (
         Surveys. Rebuilt the company AI-native over the past few years —
         agentic delivery is now the default way code ships — on top of a
         systems background spanning production Rust platforms and GPU
-        programming on PlayStation 3. Happiest when handed something broken:
-        taking it apart to find out exactly why.
+        programming on PlayStation 3. Happy to be handed a challenge or
+        something broken: taking it apart to find out exactly why.
       </p>
     </section>
     <h2>Highlights</h2>
