@@ -6,68 +6,56 @@ const App = () => (
     <section>
       <p>Dubai, nkostelnik@gmail.com</p>
       <p>
-        Software engineering leader and systems programmer with over 17 years'
-        experience, currently CTO of Education Intelligence, the education
-        research business behind Teacher Tapp and School Surveys. Spent the last
-        few years personally building the company into an AI-native one: a
-        TypeScript orchestration layer where coding agents take tickets from
-        specification to reviewed pull request, an agent that sits in meetings
-        and raises the tickets itself, and custom MCP infrastructure connecting
-        every system in the business to Claude. That sits on top of a deep
-        systems background — two production Rust platforms, C++ GPU programming
-        on PlayStation 3 — and a career-long reputation as the engineer pointed
-        at the hardest debugging and integration problems: happiest taking
-        something broken apart to find out exactly why.
+        Software engineer and systems programmer with over 17 years'
+        experience, currently CTO of Education Intelligence, the research
+        business behind Teacher Tapp and School Surveys. Rebuilt the company
+        AI-native over the past few years — agentic delivery is now the default
+        way code ships — on top of a systems background spanning production
+        Rust platforms and GPU programming on PlayStation 3. A career-long
+        reputation as the engineer pointed at the hardest debugging and
+        integration problems: happiest taking something broken apart to find
+        out exactly why.
       </p>
     </section>
     <h2>Highlights</h2>
     <section>
       <ul>
         <li>
-          <strong>Agentic software delivery in production:</strong> built a
-          multi-agent orchestration pipeline where tickets are specified with
-          human review, implemented autonomously by coding agents (Claude,
-          Codex) and raised as GitHub pull requests for human review — LLM
-          autonomy wrapped in hard-coded workflow logic and human gates. Now the
-          default path for shipping code at Education Intelligence, with
-          productivity gains that have let the business absorb natural attrition
-          without replacement hires.
+          <strong>Agentic software delivery in production:</strong> built the
+          multi-agent pipeline that is now the default way code ships at
+          Education Intelligence — with productivity gains that have let the
+          business absorb natural attrition without replacement hires.
         </li>
         <li>
-          <strong>Voice-native project management:</strong> built an agent that
-          joins company calls, listens to the discussion and raises fully
-          contextualised tickets — replacing the Kanban board entirely.
+          <strong>Voice-native project management:</strong> an agent that joins
+          company calls and raises fully contextualised tickets straight from
+          the conversation.
         </li>
         <li>
-          <strong>MCP infrastructure:</strong> rolled AI out to every member of
-          the business and connected its systems to Claude, including building a
-          proxy service that exposes MCP connectors for SaaS products that lack
-          them.
+          <strong>MCP infrastructure:</strong> AI in the hands of everyone in
+          the business, with custom MCP connectors and proxies for the systems
+          that lacked them.
         </li>
         <li>
           <strong>Custom integrations against messy real-world systems:</strong>{" "}
-          a recurring theme across roles — .NET data-extraction agents deployed
-          on-prem on servers inside schools, lead-distribution frameworks
-          integrating dozens of utility providers at Switcher.ie and uSwitch,
-          and the MCP proxy layer above.
+          a recurring career theme — on-prem data extraction inside schools,
+          utility-provider integrations at Switcher.ie and uSwitch, MCP proxies
+          for closed SaaS products.
         </li>
         <li>
-          <strong>Systems depth:</strong> two production Rust platforms
-          engineered for a load profile where half of each day's traffic arrives
-          within the same ten-minute window; previously, real-time Navier–Stokes
-          fluid simulation in shaders on the PlayStation 3 GPU.
+          <strong>Systems depth:</strong> two production Rust platforms that
+          absorb half of each day's traffic in a ten-minute window; real-time
+          Navier–Stokes fluid simulation on the PlayStation 3 GPU.
         </li>
         <li>
           <strong>Infrastructure as part of the product:</strong> sole owner of
-          the Terraform and Kubernetes infrastructure at Switcher.ie — preview,
-          staging and production environments and their monitoring — with cloud
+          Terraform and Kubernetes environments at Switcher.ie; cloud
           infrastructure ownership continuing at Education Intelligence today.
         </li>
         <li>
-          <strong>Built CI before CI was a product:</strong> an internal
-          deployment system at uSwitch taking pull requests from up to 100
-          engineers through an automated pipeline to production, before
-          mainstream CI tooling existed.
+          <strong>Built CI before CI was a product:</strong> an automated
+          pull-request-to-production pipeline serving up to 100 engineers at
+          uSwitch.
         </li>
       </ul>
     </section>
@@ -86,6 +74,28 @@ const App = () => (
       </p>
       <ul>
         <li>
+          Leading the company's transition to an AI-native business: designed
+          and built a multi-agent orchestration pipeline in which tickets are
+          specified with human review, implemented autonomously by coding
+          agents (Claude, Codex) and raised as GitHub pull requests for human
+          review before release — LLM autonomy wrapped in hard-coded workflow
+          logic and human gates, now the default path for shipping code.
+        </li>
+        <li>
+          Built a voice-driven project management agent that joins company
+          calls, listens to the discussion and raises fully contextualised
+          tickets, replacing the Kanban board entirely.
+        </li>
+        <li>
+          Rolled AI out to every member of the business and connected its
+          systems to Claude via MCP — including building a proxy service that
+          exposes MCP connectors for SaaS products that lack them.
+        </li>
+        <li>
+          Delivered productivity gains that have allowed the business to absorb
+          natural attrition without replacement hires.
+        </li>
+        <li>
           Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app
           with a Microsoft SQL Server backend) into a modern web platform over
           the course of a year, establishing test-driven development and agile
@@ -97,19 +107,14 @@ const App = () => (
           applications across the two businesses.
         </li>
         <li>
-          Engineered the platform for an unusually spiky load profile: the daily
-          survey lands at a fixed time, so half of each day's traffic arrives
-          within the same ten-minute window and the system is designed to absorb
-          that surge every single day.
+          Engineered the platform for an unusually spiky load profile: the
+          daily survey lands at a fixed time, so half of each day's traffic
+          arrives within the same ten-minute window and the system is designed
+          to absorb that surge every single day.
         </li>
         <li>
-          Built and led a team of four engineers, mentoring each of them through
-          to more senior roles.
-        </li>
-        <li>
-          Leading the company's transition to an AI-native business — the
-          agentic delivery pipeline, voice-driven project management and
-          business-wide MCP rollout described in Highlights above.
+          Built and led a team of four engineers, mentoring each of them
+          through to more senior roles.
         </li>
         <li>
           Established the end-to-end product pipeline — specification, design
