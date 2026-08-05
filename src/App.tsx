@@ -95,7 +95,7 @@ const App = () => (
         </li>
         <li>
           Now responsible for two Rust backend platforms and nine TypeScript
-          web applications across the two businesses.
+          applications across the two businesses.
         </li>
         <li>
           Engineered the platform for a spiky load profile: the daily survey
