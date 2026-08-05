@@ -1,0 +1,96 @@
+# Nicholas Ashford
+
+Dubai · nkostelnik@gmail.com
+
+## Profile
+
+Software engineering leader and systems programmer with over 17 years' experience, currently CTO of Education Intelligence, the education research business behind Teacher Tapp and School Surveys. Spent the last few years rebuilding the company AI-native: coding agents take tickets from specification to reviewed pull request, an agent sits in meetings and raises the tickets itself, and custom MCP infrastructure connects every system in the business to Claude. That sits on top of a deep systems background — two production Rust platforms, C++ GPU programming on PlayStation 3 — and a career-long reputation as the engineer pointed at the hardest debugging and integration problems: happiest taking something broken apart to find out exactly why.
+
+## Highlights
+
+- **Agentic software delivery in production:** built a multi-agent pipeline where tickets are specified with human review, implemented autonomously by coding agents (Claude, Codex) and raised as GitHub pull requests for human review — now the default path for shipping code at Education Intelligence, with productivity gains that have let the business absorb natural attrition without replacement hires.
+- **Voice-native project management:** built an agent that joins company calls, listens to the discussion and raises fully contextualised tickets — replacing the Kanban board entirely.
+- **MCP infrastructure:** rolled AI out to every member of the business and connected its systems to Claude, including building a proxy service that exposes MCP connectors for SaaS products that lack them.
+- **Custom integrations against messy real-world systems:** a recurring theme across roles — .NET data-extraction agents running on servers inside schools, lead-distribution frameworks integrating dozens of utility providers at Switcher.ie and uSwitch, and the MCP proxy layer above.
+- **Systems depth:** two production Rust platforms engineered for a load profile where half of each day's traffic arrives within the same ten-minute window; previously, real-time Navier–Stokes fluid simulation in shaders on the PlayStation 3 GPU.
+- **Built CI before CI was a product:** an internal deployment system at uSwitch taking pull requests from up to 100 engineers through an automated pipeline to production, before mainstream CI tooling existed.
+
+## Experience
+
+### Chief Technology Officer
+
+#### Education Intelligence (Teacher Tapp & School Surveys)
+
+*January 2021 – Present*
+
+*Education research business running the UK's largest daily teacher survey panel — thousands of teachers respond every day, and the resulting data is used by policymakers, academics and the national press.*
+
+- Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app with a Microsoft SQL Server backend) into a modern web platform over the course of a year, establishing test-driven development and agile delivery as standard practice.
+- Took the School Surveys MVP to a production-grade platform; now responsible for two Rust backend platforms and nine TypeScript web applications across the two businesses.
+- Engineered the platform for an unusually spiky load profile: the daily survey lands at a fixed time, so half of each day's traffic arrives within the same ten-minute window and the system is designed to absorb that surge every single day.
+- Built and led a team of four engineers, mentoring each of them through to more senior roles.
+- Leading the company's transition to an AI-native business — the agentic delivery pipeline, voice-driven project management and business-wide MCP rollout described in Highlights above.
+- Established the end-to-end product pipeline — specification, design (through a retained agency), MVP build, release and analytics — so the business can take any product idea from concept to launch as a matter of routine.
+- Attend board meetings and contribute to company strategy alongside setting technical vision and direction.
+
+### Senior Software Engineer
+
+#### Switcher.ie
+
+*February 2019 – January 2021 · Dublin*
+
+- Part of a small team of senior engineers building the service-oriented platform behind Ireland's leading comparison site, handling lead capture from the website.
+- Designed and built the framework for distributing leads to the various utility providers — the platform's major integration project.
+- Owned the infrastructure almost single-handedly: preview, staging and production environments and their monitoring, built with Terraform and Kubernetes.
+
+### Lead Software Engineer
+
+#### Assembly Edu
+
+*January 2016 – March 2019 · London*
+
+- Helped establish the company itself: structured as a 50/50 partnership between NEON's investment arm and an education provider, with the platform built from the ground up.
+- Designed and built the MIS Connector, a .NET ETL system running on servers inside schools, extracting management information data and syncing it securely to the cloud.
+- Wrote the cloud processing pipeline that turned raw school data into a queryable database, consumed by third-party education providers for analysis.
+- Owned the infrastructure (AWS) and a substantial share of the Ruby platform.
+
+### Senior Developer
+
+#### NEON Adventures
+
+*January 2014 – January 2017 · London & New York*
+
+- Consulted across a range of client projects for a venture studio, spanning charities and consumer brands.
+- Built an interactive 3D bike viewer for a professional cycling team's website, at a time when 3D in the browser was still rare.
+- Built backends for charity clients including kindness.org and charity: water, plus a client-management system for a further charity.
+
+### Senior Graphics Programmer
+
+#### Sony Computer Entertainment Europe
+
+*February 2012 – January 2014 · London*
+
+- Graphics programmer on Harry Potter titles for PlayStation 3 (C++/GPU), on the team responsible for special effects and integrating the art-tool pipeline.
+- Built a real-time fluid simulation for the potion cauldron, implementing the Navier–Stokes equations in shaders on the PS3 GPU.
+- Implemented the 3D mathematics for augmented-reality features using the PlayStation Eye, projecting a handheld device into in-game 3D environments.
+- Contributed gameplay programming alongside graphics work; the team was the port of call for any graphical requirement on the project.
+
+### Senior Developer
+
+#### Forward Internet Group (uSwitch)
+
+*July 2008 – February 2012 · London*
+
+- Full-stack development on uSwitch.com's gas and electricity comparison products: lead capture, processing and integrations with energy providers.
+- Built the company's internal deployment system in the earliest days of continuous integration: pull requests from up to 100 engineers triggered an automated pipeline through to production.
+- Founded and ran an iOS games studio within Forward's incubator: hired the team, then led development, release and marketing of a C++ iOS game over the course of a year.
+
+## Skills & Technologies
+
+- **AI & agentic engineering:** agentic development workflows (Claude, Codex), multi-agent pipelines, MCP connector and proxy development, generative AI, machine learning, PyTorch
+- **Languages:** Rust, C++, TypeScript, Go, Python, C#, JavaScript, Ruby, Java, SQL
+- **Cloud & infrastructure:** AWS, Google Cloud Platform, Terraform, Kubernetes, CI/CD pipelines, preview/staging/production environment provisioning, monitoring
+- **Graphics & simulation:** GPU and shader programming, DirectX, real-time fluid simulation, 3D mathematics, augmented reality
+- **Data & integrations:** ETL pipelines, on-premise data extraction, third-party API integrations, Microsoft SQL Server, large-scale data processing
+- **Web & mobile:** React, Node.js, .NET, iOS, Android
+- **Leadership & practice:** team building and mentoring, product strategy, board reporting, agile delivery, test-driven development, service-oriented architecture
