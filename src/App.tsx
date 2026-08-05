@@ -101,10 +101,6 @@ const App = () => (
           more senior roles.
         </li>
         <li>
-          Delivered productivity gains that have allowed the business to absorb
-          natural attrition without replacement hires.
-        </li>
-        <li>
           Established the end-to-end product pipeline (specification, design
           through a retained agency, MVP build, release and analytics) so the
           business can take products from concept to launch.
