@@ -29,11 +29,11 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - Designed and built a multi-agent pipeline where coding agents (Claude, Codex) implement human-specified tickets and raise pull requests for review — now the default way code ships.
 - Built a voice-driven project management agent that joins company calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP — including building a proxy service that exposes MCP connectors for SaaS products that lack them.
-- Delivered productivity gains that have allowed the business to absorb natural attrition without replacement hires.
 - Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app with a Microsoft SQL Server backend) into a modern web platform over the course of a year, establishing test-driven development and agile delivery as standard practice.
 - Took the School Surveys MVP to a production-grade platform; now responsible for two Rust backend platforms and nine TypeScript web applications across the two businesses.
 - Engineered the platform for a spiky load profile: the daily survey lands at a fixed time, so half of each day's traffic arrives within the same ten-minute window and the system is designed to absorb that surge every day.
 - Built and led a team of four engineers, mentoring each of them through to more senior roles.
+- Delivered productivity gains that have allowed the business to absorb natural attrition without replacement hires.
 - Established the end-to-end product pipeline — specification, design (through a retained agency), MVP build, release and analytics — so the business can take products from concept to launch.
 - Attend board meetings and contribute to company strategy alongside setting technical vision and direction.
 

@@ -85,10 +85,6 @@ const App = () => (
           exposes MCP connectors for SaaS products that lack them.
         </li>
         <li>
-          Delivered productivity gains that have allowed the business to absorb
-          natural attrition without replacement hires.
-        </li>
-        <li>
           Rebuilt the Teacher Tapp product from an outsourced MVP (hybrid app
           with a Microsoft SQL Server backend) into a modern web platform over
           the course of a year, establishing test-driven development and agile
@@ -108,6 +104,10 @@ const App = () => (
         <li>
           Built and led a team of four engineers, mentoring each of them
           through to more senior roles.
+        </li>
+        <li>
+          Delivered productivity gains that have allowed the business to absorb
+          natural attrition without replacement hires.
         </li>
         <li>
           Established the end-to-end product pipeline — specification, design
