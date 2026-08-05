@@ -34,8 +34,8 @@ const App = () => (
           that lacked them.
         </li>
         <li>
-          <strong>Custom integrations:</strong> on-prem data extraction inside
-          schools, utility-provider integrations at Switcher.ie and uSwitch, MCP
+          <strong>Custom integrations:</strong> provider integrations at
+          Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP
           proxies for closed SaaS products.
         </li>
         <li>
