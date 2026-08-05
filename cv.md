@@ -75,7 +75,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 *January 2014 – January 2017 · London & New York*
 
 - Consulted on client projects for a venture studio, spanning charities and consumer brands.
-- Built an interactive 3D bike visualisation for a professional cycling team's website, at a time when 3D in the browser was still rare.
+- Built an interactive 3D visualisation for a professional cycling team's website, at a time when 3D in the browser was still rare.
 - Built backends for charity clients including kindness.org and charity: water, plus a client-management system for a further charity.
 
 ---
