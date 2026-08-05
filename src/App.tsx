@@ -263,6 +263,10 @@ const App = () => (
         </li>
       </ul>
     </section>
+    <h2>Location</h2>
+    <section>
+      <p>Dubai, willing to relocate to Malta (EU right to work through spouse).</p>
+    </section>
   </main>
 )
 

@@ -96,3 +96,7 @@ Software engineer and systems programmer, currently CTO of Education Intelligenc
 - **Data & integrations:** ETL pipelines, on-premise data extraction, third-party API integrations, Microsoft SQL Server, large-scale data processing
 - **Web & mobile:** React, Node.js, .NET, iOS, Android
 - **Leadership & practice:** team building and mentoring, product strategy, board reporting, agile delivery, test-driven development, service-oriented architecture
+
+## Location
+
+Dubai, willing to relocate to Malta (EU right to work through spouse).
