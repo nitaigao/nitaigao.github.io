@@ -104,8 +104,8 @@ const App = () => (
           to absorb that surge every day.
         </li>
         <li>
-          Built and led a team of four engineers, mentoring each of them
-          through to more senior roles.
+          Built and led a team of engineers, mentoring each of them through to
+          more senior roles.
         </li>
         <li>
           Delivered productivity gains that have allowed the business to absorb
