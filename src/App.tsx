@@ -8,15 +8,15 @@ const App = () => (
       <p>
         Software engineering leader and systems programmer with over 17 years'
         experience, currently CTO of Education Intelligence, the education
-        research business behind Teacher Tapp and School Surveys. Spent the
-        last few years rebuilding the company AI-native: coding agents take
-        tickets from specification to reviewed pull request, an agent sits in
-        meetings and raises the tickets itself, and custom MCP infrastructure
-        connects every system in the business to Claude. That sits on top of a
-        deep systems background — two production Rust platforms, C++ GPU
-        programming on PlayStation 3 — and a career-long reputation as the
-        engineer pointed at the hardest debugging and integration problems:
-        happiest taking something broken apart to find out exactly why.
+        research business behind Teacher Tapp and School Surveys. Spent the last
+        few years rebuilding the company AI-native: coding agents take tickets
+        from specification to reviewed pull request, an agent sits in meetings
+        and raises the tickets itself, and custom MCP infrastructure connects
+        every system in the business to Claude. That sits on top of a deep
+        systems background — two production Rust platforms, C++ GPU programming
+        on PlayStation 3 — and a career-long reputation as the engineer pointed
+        at the hardest debugging and integration problems: happiest taking
+        something broken apart to find out exactly why.
       </p>
     </section>
     <h2>Highlights</h2>
@@ -38,9 +38,9 @@ const App = () => (
         </li>
         <li>
           <strong>MCP infrastructure:</strong> rolled AI out to every member of
-          the business and connected its systems to Claude, including building
-          a proxy service that exposes MCP connectors for SaaS products that
-          lack them.
+          the business and connected its systems to Claude, including building a
+          proxy service that exposes MCP connectors for SaaS products that lack
+          them.
         </li>
         <li>
           <strong>Custom integrations against messy real-world systems:</strong>{" "}
@@ -51,9 +51,9 @@ const App = () => (
         </li>
         <li>
           <strong>Systems depth:</strong> two production Rust platforms
-          engineered for a load profile where half of each day's traffic
-          arrives within the same ten-minute window; previously, real-time
-          Navier–Stokes fluid simulation in shaders on the PlayStation 3 GPU.
+          engineered for a load profile where half of each day's traffic arrives
+          within the same ten-minute window; previously, real-time Navier–Stokes
+          fluid simulation in shaders on the PlayStation 3 GPU.
         </li>
         <li>
           <strong>Built CI before CI was a product:</strong> an internal
@@ -89,14 +89,14 @@ const App = () => (
           applications across the two businesses.
         </li>
         <li>
-          Engineered the platform for an unusually spiky load profile: the
-          daily survey lands at a fixed time, so half of each day's traffic
-          arrives within the same ten-minute window and the system is designed
-          to absorb that surge every single day.
+          Engineered the platform for an unusually spiky load profile: the daily
+          survey lands at a fixed time, so half of each day's traffic arrives
+          within the same ten-minute window and the system is designed to absorb
+          that surge every single day.
         </li>
         <li>
-          Built and led a team of four engineers, mentoring each of them
-          through to more senior roles.
+          Built and led a team of four engineers, mentoring each of them through
+          to more senior roles.
         </li>
         <li>
           Leading the company's transition to an AI-native business — the
@@ -105,9 +105,9 @@ const App = () => (
         </li>
         <li>
           Established the end-to-end product pipeline — specification, design
-          (through a retained agency), MVP build, release and analytics — so
-          the business can take any product idea from concept to launch as a
-          matter of routine.
+          (through a retained agency), MVP build, release and analytics — so the
+          business can take any product idea from concept to launch as a matter
+          of routine.
         </li>
         <li>
           Attend board meetings and contribute to company strategy alongside
@@ -121,18 +121,18 @@ const App = () => (
       <div>February 2019 – January 2021 · Dublin</div>
       <ul>
         <li>
-          Part of a small team of senior engineers building the
-          service-oriented platform behind Ireland's leading comparison site,
-          handling lead capture from the website.
+          Part of a small team of senior engineers building the service-oriented
+          platform behind Ireland's leading comparison site, handling lead
+          capture from the website.
         </li>
         <li>
-          Designed and built the framework for distributing leads to the
-          various utility providers — the platform's major integration project.
+          Designed and built the framework for distributing leads to the various
+          utility providers — the platform's major integration project.
         </li>
         <li>
           Owned the infrastructure almost single-handedly: preview, staging and
-          production environments and their monitoring, built with Terraform
-          and Kubernetes.
+          production environments and their monitoring, built with Terraform and
+          Kubernetes.
         </li>
       </ul>
     </section>
@@ -142,9 +142,9 @@ const App = () => (
       <div>January 2016 – March 2019 · London</div>
       <ul>
         <li>
-          Helped establish the company itself: structured as a 50/50
-          partnership between NEON's investment arm and an education provider,
-          with the platform built from the ground up.
+          Helped establish the company itself: structured as a 50/50 partnership
+          between NEON's investment arm and an education provider, with the
+          platform built from the ground up.
         </li>
         <li>
           Designed and built the MIS Connector, a .NET ETL system running on
@@ -152,8 +152,8 @@ const App = () => (
           syncing it securely to the cloud.
         </li>
         <li>
-          Wrote the cloud processing pipeline that turned raw school data into
-          a queryable database, consumed by third-party education providers for
+          Wrote the cloud processing pipeline that turned raw school data into a
+          queryable database, consumed by third-party education providers for
           analysis.
         </li>
         <li>
@@ -176,9 +176,8 @@ const App = () => (
           website, at a time when 3D in the browser was still rare.
         </li>
         <li>
-          Built backends for charity clients including kindness.org and
-          charity: water, plus a client-management system for a further
-          charity.
+          Built backends for charity clients including kindness.org and charity:
+          water, plus a client-management system for a further charity.
         </li>
       </ul>
     </section>
@@ -189,8 +188,8 @@ const App = () => (
       <ul>
         <li>
           Graphics programmer on Harry Potter titles for PlayStation 3
-          (C++/GPU), on the team responsible for special effects and
-          integrating the art-tool pipeline.
+          (C++/GPU), on the team responsible for special effects and integrating
+          the art-tool pipeline.
         </li>
         <li>
           Built a real-time fluid simulation for the potion cauldron,
@@ -202,8 +201,8 @@ const App = () => (
           environments.
         </li>
         <li>
-          Contributed gameplay programming alongside graphics work; the team
-          was the port of call for any graphical requirement on the project.
+          Contributed gameplay programming alongside graphics work; the team was
+          the port of call for any graphical requirement on the project.
         </li>
       </ul>
     </section>
@@ -213,13 +212,13 @@ const App = () => (
       <div>July 2008 – February 2012 · London</div>
       <ul>
         <li>
-          Full-stack development on uSwitch.com's gas and electricity
-          comparison products: lead capture, processing and integrations with
-          energy providers.
+          Full-stack development on uSwitch.com's gas and electricity comparison
+          products: lead capture, processing and integrations with energy
+          providers.
         </li>
         <li>
-          Built the company's internal deployment system in the earliest days
-          of continuous integration: pull requests from up to 100 engineers
+          Built the company's internal deployment system in the earliest days of
+          continuous integration: pull requests from up to 100 engineers
           triggered an automated pipeline through to production.
         </li>
         <li>
