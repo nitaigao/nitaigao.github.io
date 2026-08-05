@@ -1,32 +1,28 @@
-# React + TypeScript + Vite
+# nickashford.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal CV site for Nicholas Ashford, served at [nickashford.com](https://nickashford.com) via GitHub Pages.
 
-Currently, two official plugins are available:
+The CV content lives in two places, kept in sync:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- `cv.md` — the canonical markdown version
+- `src/App.tsx` — the webpage (React + TypeScript + Vite)
 
-## React Compiler
+## Development
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```sh
+deno install    # install dependencies
+deno task dev   # run the dev server
+deno task build # type-check and build to dist/
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## Deployment
+
+Every push to `master` triggers the GitHub Actions workflow in
+`.github/workflows/static.yml`, which builds the site with Deno and deploys
+`dist/` to GitHub Pages. The custom domain is set by `public/CNAME`.
+
+## PDF
+
+Print styles are defined in `src/index.css`. To produce the PDF version, open
+the site, print to PDF (untick headers and footers), and drop the file into
+`public/` to serve it as a static asset.
