@@ -30,7 +30,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 *Education research business running the UK's largest daily teacher survey panel: thousands of teachers respond every day, and the resulting data is used by policymakers, academics and the national press.*
 
-- Designed and built a multi-agent pipeline where coding agents (Claude, Codex) implement human-specified tickets and raise pull requests for review.
+- Designed and built a multi-agent pipeline where coding agents implement human-specified tickets and raise pull requests for review.
 - Built a voice-driven project management agent that joins company calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Rebuilt the Teacher Tapp app from an outsourced MVP into TypeScript and React Native over the course of a year, establishing test-driven development and agile delivery as standard practice.

@@ -72,8 +72,8 @@ const App = () => (
       <ul>
         <li>
           Designed and built a multi-agent pipeline where coding agents
-          (Claude, Codex) implement human-specified tickets and raise pull
-          requests for review.
+          implement human-specified tickets and raise pull requests for
+          review.
         </li>
         <li>
           Built a voice-driven project management agent that joins company
