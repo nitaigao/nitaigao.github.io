@@ -195,8 +195,8 @@ const App = () => (
       <ul>
         <li>
           Graphics programmer on Harry Potter titles for PlayStation 3
-          (C++/GPU), responsible for special effects and integrating the
-          art-tool pipeline.
+          (C++/GPU), on the team responsible for special effects and
+          integrating the art-tool pipeline.
         </li>
         <li>
           Built a real-time fluid simulation for the potion cauldron,
