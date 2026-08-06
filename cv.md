@@ -38,7 +38,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 - Architected both platforms as idempotent microservices communicating over message brokers, with message replay and queue consumers written in Go.
 - Migrated the Teacher Tapp infrastructure from Azure to Google Cloud with zero downtime.
 - Protected sensitive survey and school data, hardened infrastructure, and remediated findings from security testing.
-- Designed and built a multi-agent pipeline where a workflow of agents implements tickets from specifications and acceptance criteria, raises pull requests, and ships only after automated tests and human review.
+- Designed and built a multi-agent pipeline where a workflow of agents runs the full software engineering lifecycle up to the point of human review and release.
 - Built a voice agent that joins project management calls, listens to the discussion and raises contextualised tickets.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Built and led a team of engineers, mentoring each of them through to more senior roles.

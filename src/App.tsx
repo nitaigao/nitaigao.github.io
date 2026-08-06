@@ -105,9 +105,8 @@ const App = () => (
         </li>
         <li>
           Designed and built a multi-agent pipeline where a workflow of agents
-          implements tickets from specifications and acceptance criteria,
-          raises pull requests, and ships only after automated tests and human
-          review.
+          runs the full software engineering lifecycle up to the point of
+          human review and release.
         </li>
         <li>
           Built a voice agent that joins project management calls, listens to
