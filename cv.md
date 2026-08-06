@@ -35,14 +35,14 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 - Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native on a distributed backend.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
 - Architected both platforms as idempotent microservices communicating over message brokers, with queue consumers written in Go.
-- Migrated the platform from Azure to Google Cloud.
+- Migrated the Teacher Tapp infrastructure from Azure to Google Cloud.
 - Now responsible for two distributed, fault-tolerant platforms and nine TypeScript applications across the two businesses.
 - Designed and built a multi-agent pipeline: a workflow of agents implements tickets from specifications and acceptance criteria, raises pull requests, and ships only after automated tests and human review.
 - Built a voice agent that joins project management calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Built and led a team of engineers, mentoring each of them through to more senior roles.
-- Responsible for security: protecting sensitive survey and school data, hardening infrastructure, and handling security testing and remediation.
-- Established the end-to-end product process (specification, design through a retained agency, MVP build, release and analytics) that takes products from concept to launch.
+- Responsible for security: protecting sensitive survey and school data, hardening infrastructure, and remediating findings from security testing.
+- Established the end-to-end product process: specification, design through a retained agency, build, release and analytics.
 
 ---
 

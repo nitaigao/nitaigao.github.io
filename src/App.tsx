@@ -86,7 +86,9 @@ const App = () => (
           Architected both platforms as idempotent microservices communicating
           over message brokers, with queue consumers written in Go.
         </li>
-        <li>Migrated the platform from Azure to Google Cloud.</li>
+        <li>
+          Migrated the Teacher Tapp infrastructure from Azure to Google Cloud.
+        </li>
         <li>
           Now responsible for two distributed, fault-tolerant platforms and
           nine TypeScript applications across the two businesses.
@@ -113,13 +115,12 @@ const App = () => (
         </li>
         <li>
           Responsible for security: protecting sensitive survey and school
-          data, hardening infrastructure, and handling security testing and
-          remediation.
+          data, hardening infrastructure, and remediating findings from
+          security testing.
         </li>
         <li>
-          Established the end-to-end product process (specification, design
-          through a retained agency, MVP build, release and analytics) that
-          takes products from concept to launch.
+          Established the end-to-end product process: specification, design
+          through a retained agency, build, release and analytics.
         </li>
       </ul>
     </section>
