@@ -4,8 +4,8 @@ const App = () => (
   <main className={styles.container}>
     <h1>Nicholas Ashford</h1>
     <p>
-      Software Engineer · AI Systems, Agentic Infrastructure &amp; Distributed
-      Systems
+      Software Engineer · Distributed Systems, Cloud Infrastructure &amp;
+      Agentic AI
     </p>
     <a href="mailto:nick@nickashford.com">nick@nickashford.com</a>
     <section>
@@ -13,17 +13,33 @@ const App = () => (
         I'm a software engineer and systems programmer with 18+ years of
         experience, currently CTO of Education Intelligence, the research
         business behind Teacher Tapp and School Surveys, where the platform is
-        built in TypeScript and Rust. Over
-        the past year I've rebuilt the company to be AI-native: agents now
-        implement our tickets, sit in our planning calls, and connect to every
-        system in the business. I'm always happy to be handed a challenge or
-        something broken, and to take it apart to find out exactly why.
+        built in TypeScript, Go and Rust. I own its infrastructure end to end:
+        fault-tolerant, idempotent microservices over message brokers, running
+        on Kubernetes across AWS, Google Cloud and Azure. Over the past year
+        I've also rebuilt the company to be AI-native: agents now implement
+        our tickets, sit in our planning calls, and connect to every system in
+        the business. I'm always happy to be handed a challenge or something
+        broken, and to take it apart to find out exactly why.
       </p>
     </section>
     <hr />
     <h2>Highlights</h2>
     <section>
       <ul>
+        <li>
+          <strong>Systems programming:</strong> fault-tolerant, idempotent
+          microservices in Go and Rust that absorb extremely spiky traffic;
+          real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
+        </li>
+        <li>
+          <strong>Infrastructure:</strong> owned cloud infrastructure across
+          AWS, Google Cloud and Azure, built with Terraform and Kubernetes.
+        </li>
+        <li>
+          <strong>Custom integrations:</strong> energy-provider integrations at
+          Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP
+          proxies for closed SaaS products.
+        </li>
         <li>
           <strong>Agentic delivery:</strong> built a multi-agent software
           factory pipeline, with productivity gains that have let the business
@@ -39,28 +55,14 @@ const App = () => (
           that lacked them.
         </li>
         <li>
-          <strong>Custom integrations:</strong> energy-provider integrations at
-          Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP
-          proxies for closed SaaS products.
-        </li>
-        <li>
-          <strong>Systems programming:</strong> fault-tolerant, idempotent
-          microservices in Go and Rust that absorb extremely spiky traffic;
-          real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
-        </li>
-        <li>
-          <strong>Infrastructure:</strong> owned cloud infrastructure across
-          AWS, Google Cloud and Azure, built with Terraform and Kubernetes.
-        </li>
-        <li>
           <strong>Early CI:</strong> built an automated
-          pull-request-to-production pipeline before mainstream CI tooling
-          existed.
+          pull-request-to-production pipeline for 100 engineers at uSwitch,
+          before mainstream CI tooling existed.
         </li>
       </ul>
     </section>
     <hr />
-    <h2>Relevant Experience</h2>
+    <h2>Experience</h2>
     <section>
       <h3>Lead Engineer &amp; CTO</h3>
       <h4>Education Intelligence (Teacher Tapp &amp; School Surveys)</h4>
@@ -74,22 +76,6 @@ const App = () => (
         </em>
       </p>
       <ul>
-        <li>
-          Designed and built a multi-agent pipeline: a workflow of agents
-          implements tickets from specifications and acceptance criteria,
-          raises pull requests, and ships only after automated tests and human
-          review.
-        </li>
-        <li>
-          Built a voice-driven project management agent that joins company
-          calls, listens to the discussion and raises contextualised tickets,
-          replacing the Kanban board.
-        </li>
-        <li>
-          Rolled AI out to every member of the business and connected its
-          systems to Claude via MCP, including a proxy service that exposes MCP
-          connectors for SaaS products that lack them.
-        </li>
         <li>
           Rebuilt the Teacher Tapp app from an MVP into TypeScript and React
           Native, establishing test-driven development and agile delivery as
@@ -109,18 +95,34 @@ const App = () => (
           applications across the two businesses.
         </li>
         <li>
+          Designed and built a multi-agent pipeline: a workflow of agents
+          implements tickets from specifications and acceptance criteria,
+          raises pull requests, and ships only after automated tests and human
+          review.
+        </li>
+        <li>
+          Built a voice agent that joins project management calls, listens to
+          the discussion and raises contextualised tickets, replacing the
+          Kanban board.
+        </li>
+        <li>
+          Rolled AI out to every member of the business and connected its
+          systems to Claude via MCP, including a proxy service that exposes MCP
+          connectors for SaaS products that lack them.
+        </li>
+        <li>
           Built and led a team of engineers, mentoring each of them through to
           more senior roles.
         </li>
         <li>
-          Responsible for security across both businesses: protecting
-          sensitive survey and school data, hardening infrastructure, and
-          handling security testing and remediation.
+          Responsible for security: protecting sensitive survey and school
+          data, hardening infrastructure, and handling security testing and
+          remediation.
         </li>
         <li>
-          Established the end-to-end product pipeline (specification, design
-          through a retained agency, MVP build, release and analytics) so the
-          business can take products from concept to launch.
+          Established the end-to-end product process (specification, design
+          through a retained agency, MVP build, release and analytics) that
+          takes products from concept to launch.
         </li>
       </ul>
     </section>
@@ -187,8 +189,8 @@ const App = () => (
           website, at a time when 3D in the browser was still rare.
         </li>
         <li>
-          Built backends for charity clients including kindness.org and charity:
-          water, plus a client-management system for a further charity.
+          Built backends for charity clients including kindness.org and Charity:
+          Water, plus a client-management system for a further charity.
         </li>
       </ul>
     </section>
@@ -241,6 +243,12 @@ const App = () => (
     <section>
       <ul>
         <li>
+          <strong>Cloud &amp; infrastructure:</strong> AWS, Google Cloud
+          Platform, Azure, Terraform, Kubernetes, event-driven architecture,
+          message brokers, CI/CD pipelines, preview/staging/production
+          environment provisioning, monitoring
+        </li>
+        <li>
           <strong>AI &amp; agentic engineering:</strong> LLM orchestration and
           prompt engineering, agentic development workflows, multi-agent
           pipelines, MCP connector and proxy development, generative AI,
@@ -249,12 +257,6 @@ const App = () => (
         <li>
           <strong>Languages:</strong> TypeScript, Go, Rust, C++, Python,
           JavaScript, C#, Ruby, Java, SQL
-        </li>
-        <li>
-          <strong>Cloud &amp; infrastructure:</strong> AWS, Google Cloud
-          Platform, Azure, Terraform, Kubernetes, event-driven architecture,
-          message brokers, CI/CD pipelines, preview/staging/production
-          environment provisioning, monitoring
         </li>
         <li>
           <strong>Graphics &amp; simulation:</strong> GPU and shader
@@ -271,8 +273,8 @@ const App = () => (
         </li>
         <li>
           <strong>Leadership &amp; practice:</strong> team building and
-          mentoring, product strategy, board reporting, agile delivery,
-          test-driven development, service-oriented architecture
+          mentoring, agile delivery, test-driven development, service-oriented
+          architecture
         </li>
       </ul>
     </section>
