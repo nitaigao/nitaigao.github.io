@@ -119,8 +119,8 @@ const App = () => (
           security testing.
         </li>
         <li>
-          Established the end-to-end product process: specification, design
-          through a retained agency, build, release and analytics.
+          Established the end-to-end product process: specification, design,
+          build, release and analytics.
         </li>
       </ul>
     </section>

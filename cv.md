@@ -42,7 +42,7 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Built and led a team of engineers, mentoring each of them through to more senior roles.
 - Responsible for security: protecting sensitive survey and school data, hardening infrastructure, and remediating findings from security testing.
-- Established the end-to-end product process: specification, design through a retained agency, build, release and analytics.
+- Established the end-to-end product process: specification, design, build, release and analytics.
 
 ---
 
