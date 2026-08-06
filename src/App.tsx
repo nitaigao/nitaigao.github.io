@@ -184,10 +184,6 @@ const App = () => (
           Built interactive 3D visualisations for a professional cycling team's
           website, at a time when 3D in the browser was still rare.
         </li>
-        <li>
-          Built backends for charity clients including kindness.org and Charity:
-          Water, plus a client-management system for a further charity.
-        </li>
       </ul>
     </section>
     <hr />

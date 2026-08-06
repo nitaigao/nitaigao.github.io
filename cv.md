@@ -78,7 +78,6 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 
 - Consulting and tech leadership on client projects for a venture studio, spanning charities and consumer brands.
 - Built interactive 3D visualisations for a professional cycling team's website, at a time when 3D in the browser was still rare.
-- Built backends for charity clients including kindness.org and Charity: Water, plus a client-management system for a further charity.
 
 ---
 
