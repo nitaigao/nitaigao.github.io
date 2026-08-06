@@ -100,6 +100,10 @@ const App = () => (
           with zero downtime.
         </li>
         <li>
+          Protected sensitive survey and school data, hardened infrastructure,
+          and remediated findings from security testing.
+        </li>
+        <li>
           Designed and built a multi-agent pipeline where a workflow of agents
           implements tickets from specifications and acceptance criteria,
           raises pull requests, and ships only after automated tests and human
@@ -117,14 +121,6 @@ const App = () => (
         <li>
           Built and led a team of engineers, mentoring each of them through to
           more senior roles.
-        </li>
-        <li>
-          Protected sensitive survey and school data, hardened infrastructure,
-          and remediated findings from security testing.
-        </li>
-        <li>
-          Established the end-to-end product process: specification, design,
-          build, release and analytics.
         </li>
       </ul>
     </section>
