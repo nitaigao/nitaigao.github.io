@@ -6,7 +6,7 @@ nick@nickashford.com
 
 ## Profile
 
-I'm a software engineer and systems programmer, currently CTO of Education Intelligence, where the platform is built in TypeScript, Go and Rust. I own its infrastructure and security posture end to end, from the microservices and message brokers down to the Kubernetes clusters on Google Cloud. Over the past year I've also rebuilt the company to be AI-native, with agents that implement our tickets, sit in our planning calls, and connect to every system in the business. I'm a hacker and a builder, comfortable working in a team or on my own, at ease with the unfamiliar, and happy picking problems apart.
+I'm a software engineer and systems programmer, currently CTO of Education Intelligence, where the platform is built in TypeScript, Go and Rust. I own its infrastructure and security posture end to end, from the microservices and message brokers down to the Kubernetes clusters in the cloud. Over the past year I've also rebuilt the company to be AI-native, with agents that implement our tickets, sit in our planning calls, and connect to every system in the business. I'm a hacker and a builder, comfortable working in a team or on my own, at ease with the unfamiliar, and happy picking problems apart.
 
 ---
 
