@@ -116,4 +116,4 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 ## Location
 
-British citizen currently based in Dubai, with EU work authorisation through spouse.
+British citizen currently based in Dubai, with EU work rights through spouse.
