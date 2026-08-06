@@ -11,14 +11,18 @@
     align-items: center;
     gap: 10px;
 
-    @media screen and (max-width: 600px) {
-        flex-direction: column;
-        align-items: flex-start;
+    @media print {
+        a {
+            display: none;
+        }
     }
 }
 
-@media print {
-    .links {
-        display: none;
+.pdf {
+    display: inline;
+
+     @media screen and (max-width: 600px) {
+        display:none;
     }
+    
 }
