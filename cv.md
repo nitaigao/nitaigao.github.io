@@ -32,13 +32,13 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 *Education research business running the UK's largest daily teacher survey panel, with thousands of teachers responding every day.*
 
+- Responsible for two distributed, fault-tolerant platforms and nine TypeScript applications across the two businesses.
 - Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native on a distributed backend in Go.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
 - Architected both platforms as idempotent microservices communicating over message brokers, with message replay and queue consumers written in Go.
 - Migrated the Teacher Tapp infrastructure from Azure to Google Cloud with zero downtime.
-- Now responsible for two distributed, fault-tolerant platforms and nine TypeScript applications across the two businesses.
-- Designed and built a multi-agent pipeline: a workflow of agents implements tickets from specifications and acceptance criteria, raises pull requests, and ships only after automated tests and human review.
-- Built a voice agent that joins project management calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
+- Designed and built a multi-agent pipeline where a workflow of agents implements tickets from specifications and acceptance criteria, raises pull requests, and ships only after automated tests and human review.
+- Built a voice agent that joins project management calls, listens to the discussion and raises contextualised tickets.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Built and led a team of engineers, mentoring each of them through to more senior roles.
 - Protected sensitive survey and school data, hardened infrastructure, and remediated findings from security testing.
@@ -112,9 +112,9 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 - **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows, multi-agent pipelines, MCP connector and proxy development, generative AI
 - **Languages:** TypeScript, Go, Rust, C++, Python, JavaScript, C#, Ruby, Java, SQL
 - **Graphics & simulation:** GPU and shader programming, real-time fluid simulation, 3D mathematics, augmented reality
-- **Data & integrations:** ETL pipelines, on-premise data extraction, third-party API integrations, Microsoft SQL Server, large-scale data processing
+- **Data & integrations:** ETL pipelines, on-premise data extraction, third-party API integrations, large-scale data processing
 - **Web & mobile:** React, Node.js, .NET, iOS, Android
-- **Leadership & practice:** team building and mentoring, agile delivery, test-driven development, service-oriented architecture
+- **Leadership & practice:** Team building and mentoring, agile delivery, test-driven development, service-oriented architecture
 
 ---
 

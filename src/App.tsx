@@ -79,6 +79,10 @@ const App = () => (
       </p>
       <ul>
         <li>
+          Responsible for two distributed, fault-tolerant platforms and nine
+          TypeScript applications across the two businesses.
+        </li>
+        <li>
           Rebuilt the Teacher Tapp app from an MVP into TypeScript and React
           Native on a distributed backend in Go.
         </li>
@@ -96,19 +100,14 @@ const App = () => (
           with zero downtime.
         </li>
         <li>
-          Now responsible for two distributed, fault-tolerant platforms and
-          nine TypeScript applications across the two businesses.
-        </li>
-        <li>
-          Designed and built a multi-agent pipeline: a workflow of agents
+          Designed and built a multi-agent pipeline where a workflow of agents
           implements tickets from specifications and acceptance criteria,
           raises pull requests, and ships only after automated tests and human
           review.
         </li>
         <li>
           Built a voice agent that joins project management calls, listens to
-          the discussion and raises contextualised tickets, replacing the
-          Kanban board.
+          the discussion and raises contextualised tickets.
         </li>
         <li>
           Rolled AI out to every member of the business and connected its
@@ -263,14 +262,14 @@ const App = () => (
         </li>
         <li>
           <strong>Data &amp; integrations:</strong> ETL pipelines, on-premise
-          data extraction, third-party API integrations, Microsoft SQL Server,
-          large-scale data processing
+          data extraction, third-party API integrations, large-scale data
+          processing
         </li>
         <li>
           <strong>Web &amp; mobile:</strong> React, Node.js, .NET, iOS, Android
         </li>
         <li>
-          <strong>Leadership &amp; practice:</strong> team building and
+          <strong>Leadership &amp; practice:</strong> Team building and
           mentoring, agile delivery, test-driven development, service-oriented
           architecture
         </li>
