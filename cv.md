@@ -6,7 +6,7 @@ nick@nickashford.com
 
 ## Profile
 
-I'm a software engineer and systems programmer with 18+ years of experience, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys, where the platform is built in TypeScript, Go and Rust. I own its infrastructure end to end: microservices over message brokers, running on Kubernetes on Google Cloud. Over the past year I've also rebuilt the company to be AI-native: agents now implement our tickets, sit in our planning calls, and connect to every system in the business. I'm comfortable getting stuck into unfamiliar systems and tracking problems down to their root cause.
+I'm a software engineer and systems programmer with 18+ years of experience, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys, where the platform is built in TypeScript, Go and Rust. I own its infrastructure end to end: microservices over message brokers, running on Kubernetes on Google Cloud. Over the past year I've also rebuilt the company to be AI-native: agents now implement our tickets, sit in our planning calls, and connect to every system in the business. I'm a hacker and a builder: comfortable on my own or in a team, at ease with the unfamiliar, and happy picking problems apart.
 
 ---
 
