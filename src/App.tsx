@@ -105,7 +105,7 @@ const App = () => (
         </li>
         <li>
           Designed and built a multi-agent pipeline where a workflow of agents
-          runs the full software engineering lifecycle up to the point of
+          follows the full software engineering lifecycle up to the point of
           human review and release.
         </li>
         <li>
