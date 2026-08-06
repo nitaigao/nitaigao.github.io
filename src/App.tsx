@@ -87,8 +87,8 @@ const App = () => (
           consumers written in Go.
         </li>
         <li>
-          Now responsible for two Rust backend platforms and nine TypeScript
-          applications across the two businesses.
+          Now responsible for two distributed, fault-tolerant platforms and
+          nine TypeScript applications across the two businesses.
         </li>
         <li>
           Designed and built a multi-agent pipeline: a workflow of agents

@@ -35,7 +35,7 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 - Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native on a distributed, fault-tolerant backend.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
 - Architected both platforms as fault-tolerant, idempotent microservices communicating over message brokers, with queue consumers written in Go.
-- Now responsible for two Rust backend platforms and nine TypeScript applications across the two businesses.
+- Now responsible for two distributed, fault-tolerant platforms and nine TypeScript applications across the two businesses.
 - Designed and built a multi-agent pipeline: a workflow of agents implements tickets from specifications and acceptance criteria, raises pull requests, and ships only after automated tests and human review.
 - Built a voice agent that joins project management calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
