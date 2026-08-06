@@ -14,8 +14,8 @@ const App = () => (
         experience, currently CTO of Education Intelligence, the research
         business behind Teacher Tapp and School Surveys, where the platform is
         built in TypeScript, Go and Rust. I own its infrastructure end to end:
-        microservices over message brokers, running on Kubernetes across AWS,
-        Google Cloud and Azure. Over the past year
+        microservices over message brokers, running on Kubernetes on Google
+        Cloud. Over the past year
         I've also rebuilt the company to be AI-native: agents now implement
         our tickets, sit in our planning calls, and connect to every system in
         the business. I'm always happy to be handed a challenge or something
@@ -37,7 +37,8 @@ const App = () => (
         </li>
         <li>
           <strong>Infrastructure:</strong> owned cloud infrastructure across
-          AWS, Google Cloud and Azure, built with Terraform and Kubernetes.
+          roles in AWS, Azure and Google Cloud, built with Terraform and
+          Kubernetes.
         </li>
         <li>
           <strong>Custom integrations:</strong> energy-provider integrations at
@@ -85,6 +86,7 @@ const App = () => (
           Architected both platforms as idempotent microservices communicating
           over message brokers, with queue consumers written in Go.
         </li>
+        <li>Migrated the platform from Azure to Google Cloud.</li>
         <li>
           Now responsible for two distributed, fault-tolerant platforms and
           nine TypeScript applications across the two businesses.

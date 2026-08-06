@@ -6,7 +6,7 @@ nick@nickashford.com
 
 ## Profile
 
-I'm a software engineer and systems programmer with 18+ years of experience, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys, where the platform is built in TypeScript, Go and Rust. I own its infrastructure end to end: microservices over message brokers, running on Kubernetes across AWS, Google Cloud and Azure. Over the past year I've also rebuilt the company to be AI-native: agents now implement our tickets, sit in our planning calls, and connect to every system in the business. I'm always happy to be handed a challenge or something broken, and to take it apart to find out exactly why.
+I'm a software engineer and systems programmer with 18+ years of experience, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys, where the platform is built in TypeScript, Go and Rust. I own its infrastructure end to end: microservices over message brokers, running on Kubernetes on Google Cloud. Over the past year I've also rebuilt the company to be AI-native: agents now implement our tickets, sit in our planning calls, and connect to every system in the business. I'm always happy to be handed a challenge or something broken, and to take it apart to find out exactly why.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 
 - **Agentic delivery:** built a multi-agent software factory pipeline, with productivity gains that have let the business absorb natural attrition without replacement hires.
 - **Systems programming:** fault-tolerant, idempotent microservices in Go and Rust that absorb extremely spiky traffic.
-- **Infrastructure:** owned cloud infrastructure across AWS, Google Cloud and Azure, built with Terraform and Kubernetes.
+- **Infrastructure:** owned cloud infrastructure across roles in AWS, Azure and Google Cloud, built with Terraform and Kubernetes.
 - **Custom integrations:** energy-provider integrations at Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP proxies for closed SaaS products.
 - **Voice agent:** joins project management calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
@@ -35,6 +35,7 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 - Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native on a distributed backend.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
 - Architected both platforms as idempotent microservices communicating over message brokers, with queue consumers written in Go.
+- Migrated the platform from Azure to Google Cloud.
 - Now responsible for two distributed, fault-tolerant platforms and nine TypeScript applications across the two businesses.
 - Designed and built a multi-agent pipeline: a workflow of agents implements tickets from specifications and acceptance criteria, raises pull requests, and ships only after automated tests and human review.
 - Built a voice agent that joins project management calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
