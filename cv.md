@@ -34,8 +34,8 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 - Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native on a distributed backend.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
-- Architected both platforms as idempotent microservices communicating over message brokers, with queue consumers written in Go.
-- Migrated the Teacher Tapp infrastructure from Azure to Google Cloud.
+- Architected both platforms as idempotent microservices communicating over message brokers, with message replay and queue consumers written in Go.
+- Migrated the Teacher Tapp infrastructure from Azure to Google Cloud with zero downtime.
 - Now responsible for two distributed, fault-tolerant platforms and nine TypeScript applications across the two businesses.
 - Designed and built a multi-agent pipeline: a workflow of agents implements tickets from specifications and acceptance criteria, raises pull requests, and ships only after automated tests and human review.
 - Built a voice agent that joins project management calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
@@ -108,7 +108,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 ## Skills & Technologies
 
-- **Cloud & infrastructure:** AWS, Google Cloud Platform, Azure, Terraform, Docker, Kubernetes, event-driven architecture, message brokers, CI/CD pipelines, preview/staging/production environment provisioning, observability with New Relic (logs, metrics, tracing)
+- **Cloud & infrastructure:** AWS, Google Cloud Platform, Azure, Terraform, Docker, Kubernetes, event-driven architecture, message brokers, CI/CD pipelines, performance tuning, preview/staging/production environment provisioning, observability with New Relic (logs, metrics, tracing)
 - **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows, multi-agent pipelines, MCP connector and proxy development, generative AI
 - **Languages:** TypeScript, Go, Rust, C++, Python, JavaScript, C#, Ruby, Java, SQL
 - **Graphics & simulation:** GPU and shader programming, real-time fluid simulation, 3D mathematics, augmented reality

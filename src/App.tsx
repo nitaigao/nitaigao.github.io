@@ -88,10 +88,12 @@ const App = () => (
         </li>
         <li>
           Architected both platforms as idempotent microservices communicating
-          over message brokers, with queue consumers written in Go.
+          over message brokers, with message replay and queue consumers
+          written in Go.
         </li>
         <li>
-          Migrated the Teacher Tapp infrastructure from Azure to Google Cloud.
+          Migrated the Teacher Tapp infrastructure from Azure to Google Cloud
+          with zero downtime.
         </li>
         <li>
           Now responsible for two distributed, fault-tolerant platforms and
@@ -243,7 +245,7 @@ const App = () => (
         <li>
           <strong>Cloud &amp; infrastructure:</strong> AWS, Google Cloud
           Platform, Azure, Terraform, Docker, Kubernetes, event-driven
-          architecture, message brokers, CI/CD pipelines,
+          architecture, message brokers, CI/CD pipelines, performance tuning,
           preview/staging/production environment provisioning, observability
           with New Relic (logs, metrics, tracing)
         </li>
