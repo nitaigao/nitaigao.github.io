@@ -120,9 +120,8 @@ const App = () => (
           more senior roles.
         </li>
         <li>
-          Responsible for security: protecting sensitive survey and school
-          data, hardening infrastructure, and remediating findings from
-          security testing.
+          Protected sensitive survey and school data, hardened infrastructure,
+          and remediated findings from security testing.
         </li>
         <li>
           Established the end-to-end product process: specification, design,

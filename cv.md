@@ -41,7 +41,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 - Built a voice agent that joins project management calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Built and led a team of engineers, mentoring each of them through to more senior roles.
-- Responsible for security: protecting sensitive survey and school data, hardening infrastructure, and remediating findings from security testing.
+- Protected sensitive survey and school data, hardened infrastructure, and remediated findings from security testing.
 - Established the end-to-end product process: specification, design, build, release and analytics.
 
 ---
