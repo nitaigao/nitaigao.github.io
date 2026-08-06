@@ -3,28 +3,27 @@ import styles from "./App.module.css"
 const App = () => (
   <main className={styles.container}>
     <h1>Nicholas Ashford</h1>
-    <p>
-      Software Engineer · Distributed Systems, Cloud Infrastructure &amp;
-      Agentic AI
-    </p>
-    <a href="mailto:nick@nickashford.com">nick@nickashford.com</a>
     <p className={styles.links}>
       <a href="/nicholas-ashford-cv.pdf" download>
         Download PDF
       </a>
     </p>
+    <p>
+      Software Engineer · Distributed Systems, Cloud Infrastructure &amp;
+      Agentic AI
+    </p>
+    <a href="mailto:nick@nickashford.com">nick@nickashford.com</a>
     <section>
       <p>
         I'm a software engineer and systems programmer, currently CTO of
         Education Intelligence, where the platform is built in TypeScript, Go
-        and Rust. I own its infrastructure and security posture end to end,
-        from the microservices and message brokers down to the Kubernetes
-        clusters in the cloud. Over the
-        past year I've also rebuilt the company to be AI-native, with agents
-        that implement our tickets, sit in our planning calls, and connect to
-        every system in the business. I'm a hacker and a builder, comfortable
-        working in a team or on my own, at ease with the unfamiliar, and happy
-        picking problems apart.
+        and Rust. I own its infrastructure and security posture end to end, from
+        the microservices and message brokers down to the Kubernetes clusters in
+        the cloud. Over the past year I've also rebuilt the company to be
+        AI-native, with agents that implement our tickets, sit in our planning
+        calls, and connect to every system in the business. I'm a hacker and a
+        builder, comfortable working in a team or on my own, at ease with the
+        unfamiliar, and happy picking problems apart.
       </p>
     </section>
     <hr />
@@ -46,17 +45,17 @@ const App = () => (
           Kubernetes.
         </li>
         <li>
-          <strong>Custom integrations:</strong> energy-provider API
-          integrations at uSwitch and Switcher.ie, on-prem data extraction
-          inside schools, MCP proxies for closed SaaS products.
+          <strong>Custom integrations:</strong> energy-provider API integrations
+          at uSwitch and Switcher.ie, on-prem data extraction inside schools,
+          MCP proxies for closed SaaS products.
         </li>
         <li>
           <strong>Voice agent:</strong> joins project management calls and
           raises contextualised tickets from the conversation.
         </li>
         <li>
-          <strong>MCP infrastructure:</strong> custom MCP connectors and
-          proxies for the systems that lacked them.
+          <strong>MCP infrastructure:</strong> custom MCP connectors and proxies
+          for the systems that lacked them.
         </li>
         <li>
           <strong>Early CI:</strong> built an automated
@@ -92,8 +91,8 @@ const App = () => (
         </li>
         <li>
           Architected both platforms as idempotent microservices communicating
-          over message brokers, with message replay and queue consumers
-          written in Go.
+          over message brokers, with message replay and queue consumers written
+          in Go.
         </li>
         <li>
           Migrated the Teacher Tapp infrastructure from Azure to Google Cloud
@@ -195,8 +194,8 @@ const App = () => (
       <ul>
         <li>
           Graphics programmer on Harry Potter titles for PlayStation 3
-          (C++/GPU), on the team responsible for special effects and
-          integrating the art-tool pipeline.
+          (C++/GPU), on the team responsible for special effects and integrating
+          the art-tool pipeline.
         </li>
         <li>
           Built a real-time fluid simulation for the potion cauldron,
@@ -215,18 +214,18 @@ const App = () => (
       <div>July 2008 – February 2012 · London</div>
       <ul>
         <li>
-          Full-stack development on uSwitch.com's gas and electricity
-          comparison products, covering lead capture, processing and
-          integrations with energy providers.
+          Full-stack development on uSwitch.com's gas and electricity comparison
+          products, covering lead capture, processing and integrations with
+          energy providers.
         </li>
         <li>
           Built the company's internal deployment system, taking pull requests
           through an automated pipeline to production.
         </li>
         <li>
-          Founded and ran an iOS games studio within Forward's incubator,
-          hiring the team and leading development, release and marketing of a
-          C++ iOS game over the course of a year.
+          Founded and ran an iOS games studio within Forward's incubator, hiring
+          the team and leading development, release and marketing of a C++ iOS
+          game over the course of a year.
         </li>
       </ul>
     </section>

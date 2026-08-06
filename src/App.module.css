@@ -9,6 +9,10 @@
     top: 0;
     right: 0;
     margin: 0;
+
+    @media screen and (max-width: 960px) {
+        position: relative;
+    }
 }
 
 
