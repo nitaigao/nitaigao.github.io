@@ -43,7 +43,7 @@ const App = () => (
         </li>
         <li>
           <strong>Custom integrations:</strong> energy-provider integrations at
-          Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP
+          uSwitch and Switcher.ie, on-prem data extraction inside schools, MCP
           proxies for closed SaaS products.
         </li>
         <li>
