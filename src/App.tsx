@@ -3,12 +3,17 @@ import styles from "./App.module.css"
 const App = () => (
   <main className={styles.container}>
     <h1>Nicholas Ashford</h1>
+    <p>
+      Software Engineer · AI Systems, Agentic Infrastructure &amp; Distributed
+      Systems
+    </p>
     <a href="mailto:nick@nickashford.com">nick@nickashford.com</a>
     <section>
       <p>
-        I'm a software engineer and systems programmer, currently CTO of
-        Education Intelligence, the research business behind Teacher Tapp and
-        School Surveys, where the platform is built in TypeScript and Rust. Over
+        I'm a software engineer and systems programmer with 18+ years of
+        experience, currently CTO of Education Intelligence, the research
+        business behind Teacher Tapp and School Surveys, where the platform is
+        built in TypeScript and Rust. Over
         the past year I've rebuilt the company to be AI-native: agents now
         implement our tickets, sit in our planning calls, and connect to every
         system in the business. I'm always happy to be handed a challenge or
@@ -39,9 +44,9 @@ const App = () => (
           proxies for closed SaaS products.
         </li>
         <li>
-          <strong>Systems programming:</strong> two production Rust platforms
-          that absorb extremely spiky traffic; real-time Navier-Stokes fluid
-          simulation on the PlayStation 3 GPU.
+          <strong>Systems programming:</strong> fault-tolerant, idempotent
+          microservices in Go and Rust that absorb extremely spiky traffic;
+          real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
         </li>
         <li>
           <strong>Infrastructure:</strong> owned cloud infrastructure across
@@ -70,8 +75,10 @@ const App = () => (
       </p>
       <ul>
         <li>
-          Designed and built a multi-agent pipeline where coding agents
-          implement human-specified tickets and raise pull requests for review.
+          Designed and built a multi-agent pipeline: a workflow of agents
+          implements tickets from specifications and acceptance criteria,
+          raises pull requests, and ships only after automated tests and human
+          review.
         </li>
         <li>
           Built a voice-driven project management agent that joins company
@@ -93,12 +100,22 @@ const App = () => (
           TypeScript and Rust.
         </li>
         <li>
+          Architected both platforms as fault-tolerant, idempotent
+          microservices communicating over message brokers, with queue
+          consumers written in Go.
+        </li>
+        <li>
           Now responsible for two Rust backend platforms and nine TypeScript
           applications across the two businesses.
         </li>
         <li>
           Built and led a team of engineers, mentoring each of them through to
           more senior roles.
+        </li>
+        <li>
+          Responsible for security across both businesses: protecting
+          sensitive survey and school data, hardening infrastructure, and
+          handling security testing and remediation.
         </li>
         <li>
           Established the end-to-end product pipeline (specification, design
@@ -230,13 +247,14 @@ const App = () => (
           machine learning, PyTorch
         </li>
         <li>
-          <strong>Languages:</strong> TypeScript, Rust, Go, C++, Python,
+          <strong>Languages:</strong> TypeScript, Go, Rust, C++, Python,
           JavaScript, C#, Ruby, Java, SQL
         </li>
         <li>
           <strong>Cloud &amp; infrastructure:</strong> AWS, Google Cloud
-          Platform, Azure, Terraform, Kubernetes, CI/CD pipelines,
-          preview/staging/production environment provisioning, monitoring
+          Platform, Azure, Terraform, Kubernetes, event-driven architecture,
+          message brokers, CI/CD pipelines, preview/staging/production
+          environment provisioning, monitoring
         </li>
         <li>
           <strong>Graphics &amp; simulation:</strong> GPU and shader

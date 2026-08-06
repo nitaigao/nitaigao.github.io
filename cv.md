@@ -1,10 +1,12 @@
 # Nicholas Ashford
 
+Software Engineer · AI Systems, Agentic Infrastructure & Distributed Systems
+
 nick@nickashford.com
 
 ## Profile
 
-I'm a software engineer and systems programmer, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys, where the platform is built in TypeScript and Rust. Over the past year I've rebuilt the company to be AI-native: agents now implement our tickets, sit in our planning calls, and connect to every system in the business. I'm always happy to be handed a challenge or something broken, and to take it apart to find out exactly why.
+I'm a software engineer and systems programmer with 18+ years of experience, currently CTO of Education Intelligence, the research business behind Teacher Tapp and School Surveys, where the platform is built in TypeScript and Rust. Over the past year I've rebuilt the company to be AI-native: agents now implement our tickets, sit in our planning calls, and connect to every system in the business. I'm always happy to be handed a challenge or something broken, and to take it apart to find out exactly why.
 
 ---
 
@@ -14,7 +16,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 - **Voice agent:** joins project management calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
 - **Custom integrations:** energy-provider integrations at Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP proxies for closed SaaS products.
-- **Systems programming:** two production Rust platforms that absorb extremely spiky traffic; real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
+- **Systems programming:** fault-tolerant, idempotent microservices in Go and Rust that absorb extremely spiky traffic; real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
 - **Infrastructure:** owned cloud infrastructure across AWS, Google Cloud and Azure, built with Terraform and Kubernetes.
 - **Early CI:** built an automated pull-request-to-production pipeline before mainstream CI tooling existed.
 
@@ -30,13 +32,15 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 *Education research business running the UK's largest daily teacher survey panel: thousands of teachers respond every day, and the resulting data is used by policymakers, academics and the national press.*
 
-- Designed and built a multi-agent pipeline where coding agents implement human-specified tickets and raise pull requests for review.
+- Designed and built a multi-agent pipeline: a workflow of agents implements tickets from specifications and acceptance criteria, raises pull requests, and ships only after automated tests and human review.
 - Built a voice-driven project management agent that joins company calls, listens to the discussion and raises contextualised tickets, replacing the Kanban board.
 - Rolled AI out to every member of the business and connected its systems to Claude via MCP, including a proxy service that exposes MCP connectors for SaaS products that lack them.
 - Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native, establishing test-driven development and agile delivery as standard practice.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
+- Architected both platforms as fault-tolerant, idempotent microservices communicating over message brokers, with queue consumers written in Go.
 - Now responsible for two Rust backend platforms and nine TypeScript applications across the two businesses.
 - Built and led a team of engineers, mentoring each of them through to more senior roles.
+- Responsible for security across both businesses: protecting sensitive survey and school data, hardening infrastructure, and handling security testing and remediation.
 - Established the end-to-end product pipeline (specification, design through a retained agency, MVP build, release and analytics) so the business can take products from concept to launch.
 
 ---
@@ -105,8 +109,8 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 ## Skills & Technologies
 
 - **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows, multi-agent pipelines, MCP connector and proxy development, generative AI, machine learning, PyTorch
-- **Languages:** TypeScript, Rust, Go, C++, Python, JavaScript, C#, Ruby, Java, SQL
-- **Cloud & infrastructure:** AWS, Google Cloud Platform, Azure, Terraform, Kubernetes, CI/CD pipelines, preview/staging/production environment provisioning, monitoring
+- **Languages:** TypeScript, Go, Rust, C++, Python, JavaScript, C#, Ruby, Java, SQL
+- **Cloud & infrastructure:** AWS, Google Cloud Platform, Azure, Terraform, Kubernetes, event-driven architecture, message brokers, CI/CD pipelines, preview/staging/production environment provisioning, monitoring
 - **Graphics & simulation:** GPU and shader programming, real-time fluid simulation, 3D mathematics, augmented reality
 - **Data & integrations:** ETL pipelines, on-premise data extraction, third-party API integrations, Microsoft SQL Server, large-scale data processing
 - **Web & mobile:** React, Node.js, .NET, iOS, Android
