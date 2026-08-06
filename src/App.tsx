@@ -80,7 +80,7 @@ const App = () => (
       <ul>
         <li>
           Rebuilt the Teacher Tapp app from an MVP into TypeScript and React
-          Native on a distributed backend.
+          Native on a distributed backend in Go.
         </li>
         <li>
           Took the School Surveys MVP to a production-grade platform in

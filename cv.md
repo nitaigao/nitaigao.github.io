@@ -32,7 +32,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 *Education research business running the UK's largest daily teacher survey panel, with thousands of teachers responding every day.*
 
-- Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native on a distributed backend.
+- Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native on a distributed backend in Go.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
 - Architected both platforms as idempotent microservices communicating over message brokers, with message replay and queue consumers written in Go.
 - Migrated the Teacher Tapp infrastructure from Azure to Google Cloud with zero downtime.
