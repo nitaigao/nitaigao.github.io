@@ -19,7 +19,7 @@ const App = () => (
         past year I've also rebuilt the company to be AI-native, with agents
         that implement our tickets, sit in our planning calls, and connect to
         every system in the business. I'm a hacker and a builder, comfortable
-        with others or on my own, at ease with the unfamiliar, and happy
+        working in a team or on my own, at ease with the unfamiliar, and happy
         picking problems apart.
       </p>
     </section>
