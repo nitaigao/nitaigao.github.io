@@ -56,8 +56,8 @@ const App = () => (
         </li>
         <li>
           <strong>Early CI:</strong> built an automated
-          pull-request-to-production pipeline for 100 engineers at uSwitch,
-          before mainstream CI tooling existed.
+          pull-request-to-production pipeline at uSwitch, before mainstream CI
+          tooling existed.
         </li>
       </ul>
     </section>

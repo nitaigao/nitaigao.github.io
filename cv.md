@@ -18,7 +18,7 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 - **Custom integrations:** energy-provider integrations at Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP proxies for closed SaaS products.
 - **Voice agent:** joins project management calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
-- **Early CI:** built an automated pull-request-to-production pipeline for 100 engineers at uSwitch, before mainstream CI tooling existed.
+- **Early CI:** built an automated pull-request-to-production pipeline at uSwitch, before mainstream CI tooling existed.
 
 ---
 
