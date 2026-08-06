@@ -262,8 +262,8 @@ const App = () => (
     <h2>Location</h2>
     <section>
       <p>
-        Dubai. Open to relocating to Malta if required (EU right to work through
-        spouse).
+        Currently located in Dubai. British citizen. EU work authorisation
+        through spouse.
       </p>
     </section>
   </main>

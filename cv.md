@@ -116,4 +116,4 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 ## Location
 
-Dubai. Open to relocating to Malta if required (EU right to work through spouse).
+Currently located in Dubai. British citizen. EU work authorisation through spouse.
