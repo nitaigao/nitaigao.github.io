@@ -108,7 +108,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 ## Skills & Technologies
 
-- **Cloud & infrastructure:** AWS, Google Cloud Platform, Azure, Terraform, Kubernetes, event-driven architecture, message brokers, CI/CD pipelines, preview/staging/production environment provisioning, monitoring
+- **Cloud & infrastructure:** AWS, Google Cloud Platform, Azure, Terraform, Docker, Kubernetes, event-driven architecture, message brokers, CI/CD pipelines, preview/staging/production environment provisioning, observability with New Relic (logs, metrics, tracing)
 - **AI & agentic engineering:** LLM orchestration and prompt engineering, agentic development workflows, multi-agent pipelines, MCP connector and proxy development, generative AI
 - **Languages:** TypeScript, Go, Rust, C++, Python, JavaScript, C#, Ruby, Java, SQL
 - **Graphics & simulation:** GPU and shader programming, real-time fluid simulation, 3D mathematics, augmented reality
