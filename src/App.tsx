@@ -14,8 +14,8 @@ const App = () => (
         experience, currently CTO of Education Intelligence, the research
         business behind Teacher Tapp and School Surveys, where the platform is
         built in TypeScript, Go and Rust. I own its infrastructure end to end:
-        fault-tolerant, idempotent microservices over message brokers, running
-        on Kubernetes across AWS, Google Cloud and Azure. Over the past year
+        microservices over message brokers, running on Kubernetes across AWS,
+        Google Cloud and Azure. Over the past year
         I've also rebuilt the company to be AI-native: agents now implement
         our tickets, sit in our planning calls, and connect to every system in
         the business. I'm always happy to be handed a challenge or something
@@ -75,16 +75,15 @@ const App = () => (
       <ul>
         <li>
           Rebuilt the Teacher Tapp app from an MVP into TypeScript and React
-          Native on a distributed, fault-tolerant backend.
+          Native on a distributed backend.
         </li>
         <li>
           Took the School Surveys MVP to a production-grade platform in
           TypeScript and Rust.
         </li>
         <li>
-          Architected both platforms as fault-tolerant, idempotent
-          microservices communicating over message brokers, with queue
-          consumers written in Go.
+          Architected both platforms as idempotent microservices communicating
+          over message brokers, with queue consumers written in Go.
         </li>
         <li>
           Now responsible for two distributed, fault-tolerant platforms and
