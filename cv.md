@@ -6,7 +6,7 @@ nick@nickashford.com
 
 ## Profile
 
-I'm a software engineer and systems programmer with 18+ years of experience, currently CTO of Education Intelligence, where the platform is built in TypeScript, Go and Rust. I own its infrastructure end to end, from microservices and message brokers down to the Kubernetes clusters on Google Cloud, and running large systems has given me an appreciation of the continuous need for security. Over the past year I've also rebuilt the company to be AI-native, with agents that implement our tickets, sit in our planning calls, and connect to every system in the business. I'm a hacker and a builder, comfortable working in a team or on my own, at ease with the unfamiliar, and happy picking problems apart.
+I'm a software engineer and systems programmer, currently CTO of Education Intelligence, where the platform is built in TypeScript, Go and Rust. I own its infrastructure and security posture end to end, from the microservices and message brokers down to the Kubernetes clusters on Google Cloud. Over the past year I've also rebuilt the company to be AI-native, with agents that implement our tickets, sit in our planning calls, and connect to every system in the business. I'm a hacker and a builder, comfortable working in a team or on my own, at ease with the unfamiliar, and happy picking problems apart.
 
 ---
 
@@ -60,7 +60,7 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 
 ### Lead Software Engineer
 
-#### Assembly Edu
+#### Assembly Edu · a NEON Adventures venture
 
 *January 2016 – March 2019 · London*
 
@@ -120,4 +120,4 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 
 ## Location
 
-British citizen currently based in Dubai, with EU work rights through spouse.
+British citizen based in Dubai, with a route to EU residence and work through my German spouse.
