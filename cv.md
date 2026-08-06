@@ -53,7 +53,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 - Part of a small team of senior engineers building the service-oriented platform behind Ireland's leading comparison site, handling lead capture from the website.
 - Designed and built the framework for distributing leads to the utility providers.
-- Owned the infrastructure: preview, staging and production environments and their monitoring, built with Terraform and Kubernetes on AWS.
+- Owned the preview, staging and production environments and their monitoring, built with Terraform and Kubernetes on AWS.
 
 ---
 
@@ -63,7 +63,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 *January 2016 – March 2019 · London*
 
-- Helped establish the company: structured as a 50/50 partnership between NEON's investment arm and an education provider, with the platform built from the ground up.
+- Helped establish the company, structured as a 50/50 partnership between NEON's investment arm and an education provider, with the platform built from the ground up.
 - Designed and built the MIS Connector, a .NET ETL system running on servers inside schools, extracting sensitive management information data and syncing it to the cloud.
 - Wrote the cloud processing pipeline that turned raw school data into a queryable database, consumed by third-party education providers for analysis.
 - Owned the infrastructure (AWS) and a substantial share of the Ruby platform.
@@ -99,9 +99,9 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 
 *July 2008 – February 2012 · London*
 
-- Full-stack development on uSwitch.com's gas and electricity comparison products: lead capture, processing and integrations with energy providers.
-- Built the company's internal deployment system: pull requests from up to 100 engineers triggered an automated pipeline through to production.
-- Founded and ran an iOS games studio within Forward's incubator: hired the team, then led development, release and marketing of a C++ iOS game over the course of a year.
+- Full-stack development on uSwitch.com's gas and electricity comparison products, covering lead capture, processing and integrations with energy providers.
+- Built the company's internal deployment system, taking pull requests from up to 100 engineers through an automated pipeline to production.
+- Founded and ran an iOS games studio within Forward's incubator, hiring the team and leading development, release and marketing of a C++ iOS game over the course of a year.
 
 ---
 

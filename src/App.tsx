@@ -140,8 +140,8 @@ const App = () => (
           providers.
         </li>
         <li>
-          Owned the infrastructure: preview, staging and production environments
-          and their monitoring, built with Terraform and Kubernetes on AWS.
+          Owned the preview, staging and production environments and their
+          monitoring, built with Terraform and Kubernetes on AWS.
         </li>
       </ul>
     </section>
@@ -152,7 +152,7 @@ const App = () => (
       <div>January 2016 – March 2019 · London</div>
       <ul>
         <li>
-          Helped establish the company: structured as a 50/50 partnership
+          Helped establish the company, structured as a 50/50 partnership
           between NEON's investment arm and an education provider, with the
           platform built from the ground up.
         </li>
@@ -216,19 +216,18 @@ const App = () => (
       <div>July 2008 – February 2012 · London</div>
       <ul>
         <li>
-          Full-stack development on uSwitch.com's gas and electricity comparison
-          products: lead capture, processing and integrations with energy
-          providers.
+          Full-stack development on uSwitch.com's gas and electricity
+          comparison products, covering lead capture, processing and
+          integrations with energy providers.
         </li>
         <li>
-          Built the company's internal deployment system: pull requests from up
-          to 100 engineers triggered an automated pipeline through to
-          production.
+          Built the company's internal deployment system, taking pull requests
+          from up to 100 engineers through an automated pipeline to production.
         </li>
         <li>
-          Founded and ran an iOS games studio within Forward's incubator: hired
-          the team, then led development, release and marketing of a C++ iOS
-          game over the course of a year.
+          Founded and ran an iOS games studio within Forward's incubator,
+          hiring the team and leading development, release and marketing of a
+          C++ iOS game over the course of a year.
         </li>
       </ul>
     </section>
