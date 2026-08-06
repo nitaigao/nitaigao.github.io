@@ -42,9 +42,9 @@ const App = () => (
           Kubernetes.
         </li>
         <li>
-          <strong>Custom integrations:</strong> energy-provider integrations at
-          uSwitch and Switcher.ie, on-prem data extraction inside schools, MCP
-          proxies for closed SaaS products.
+          <strong>Custom integrations:</strong> energy-provider API
+          integrations at uSwitch and Switcher.ie, on-prem data extraction
+          inside schools, MCP proxies for closed SaaS products.
         </li>
         <li>
           <strong>Voice agent:</strong> joins project management calls and

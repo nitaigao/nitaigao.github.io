@@ -15,7 +15,7 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 - **Agentic delivery:** built a multi-agent software factory pipeline, with productivity gains that have let the business absorb natural attrition without replacement hires.
 - **Systems programming:** fault-tolerant, idempotent microservices in Go and Rust that absorb extremely spiky traffic.
 - **Infrastructure:** owned cloud infrastructure across roles in AWS, Azure and Google Cloud, built with Terraform and Kubernetes.
-- **Custom integrations:** energy-provider integrations at uSwitch and Switcher.ie, on-prem data extraction inside schools, MCP proxies for closed SaaS products.
+- **Custom integrations:** energy-provider API integrations at uSwitch and Switcher.ie, on-prem data extraction inside schools, MCP proxies for closed SaaS products.
 - **Voice agent:** joins project management calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
 - **Early CI:** built an automated pull-request-to-production pipeline at uSwitch, before mainstream CI tooling existed.
