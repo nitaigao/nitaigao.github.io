@@ -222,7 +222,7 @@ const App = () => (
         </li>
         <li>
           Built the company's internal deployment system, taking pull requests
-          from up to 100 engineers through an automated pipeline to production.
+          through an automated pipeline to production.
         </li>
         <li>
           Founded and ran an iOS games studio within Forward's incubator,

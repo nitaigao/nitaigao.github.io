@@ -100,7 +100,7 @@ I'm a software engineer and systems programmer, currently CTO of Education Intel
 *July 2008 – February 2012 · London*
 
 - Full-stack development on uSwitch.com's gas and electricity comparison products, covering lead capture, processing and integrations with energy providers.
-- Built the company's internal deployment system, taking pull requests from up to 100 engineers through an automated pipeline to production.
+- Built the company's internal deployment system, taking pull requests through an automated pipeline to production.
 - Founded and ran an iOS games studio within Forward's incubator, hiring the team and leading development, release and marketing of a C++ iOS game over the course of a year.
 
 ---
