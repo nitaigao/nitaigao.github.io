@@ -12,10 +12,10 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 
 ## Highlights
 
-- **Systems programming:** fault-tolerant, idempotent microservices in Go and Rust that absorb extremely spiky traffic; real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
+- **Agentic delivery:** built a multi-agent software factory pipeline, with productivity gains that have let the business absorb natural attrition without replacement hires.
+- **Systems programming:** fault-tolerant, idempotent microservices in Go and Rust that absorb extremely spiky traffic.
 - **Infrastructure:** owned cloud infrastructure across AWS, Google Cloud and Azure, built with Terraform and Kubernetes.
 - **Custom integrations:** energy-provider integrations at Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP proxies for closed SaaS products.
-- **Agentic delivery:** built a multi-agent software factory pipeline, with productivity gains that have let the business absorb natural attrition without replacement hires.
 - **Voice agent:** joins project management calls and raises contextualised tickets from the conversation.
 - **MCP infrastructure:** AI in the hands of everyone in the business, with custom MCP connectors and proxies for the systems that lacked them.
 - **Early CI:** built an automated pull-request-to-production pipeline for 100 engineers at uSwitch, before mainstream CI tooling existed.
@@ -30,9 +30,9 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 
 *January 2021 – Present*
 
-*Education research business running the UK's largest daily teacher survey panel: thousands of teachers respond every day, and the resulting data is used by policymakers, academics and the national press.*
+*Education research business running the UK's largest daily teacher survey panel, with thousands of teachers responding every day.*
 
-- Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native, establishing test-driven development and agile delivery as standard practice.
+- Rebuilt the Teacher Tapp app from an MVP into TypeScript and React Native on a distributed, fault-tolerant backend.
 - Took the School Surveys MVP to a production-grade platform in TypeScript and Rust.
 - Architected both platforms as fault-tolerant, idempotent microservices communicating over message brokers, with queue consumers written in Go.
 - Now responsible for two Rust backend platforms and nine TypeScript applications across the two businesses.

@@ -27,9 +27,13 @@ const App = () => (
     <section>
       <ul>
         <li>
+          <strong>Agentic delivery:</strong> built a multi-agent software
+          factory pipeline, with productivity gains that have let the business
+          absorb natural attrition without replacement hires.
+        </li>
+        <li>
           <strong>Systems programming:</strong> fault-tolerant, idempotent
-          microservices in Go and Rust that absorb extremely spiky traffic;
-          real-time Navier-Stokes fluid simulation on the PlayStation 3 GPU.
+          microservices in Go and Rust that absorb extremely spiky traffic.
         </li>
         <li>
           <strong>Infrastructure:</strong> owned cloud infrastructure across
@@ -39,11 +43,6 @@ const App = () => (
           <strong>Custom integrations:</strong> energy-provider integrations at
           Switcher.ie and uSwitch, on-prem data extraction inside schools, MCP
           proxies for closed SaaS products.
-        </li>
-        <li>
-          <strong>Agentic delivery:</strong> built a multi-agent software
-          factory pipeline, with productivity gains that have let the business
-          absorb natural attrition without replacement hires.
         </li>
         <li>
           <strong>Voice agent:</strong> joins project management calls and
@@ -70,16 +69,13 @@ const App = () => (
       <p>
         <em>
           Education research business running the UK's largest daily teacher
-          survey panel: thousands of teachers respond every day, and the
-          resulting data is used by policymakers, academics and the national
-          press.
+          survey panel, with thousands of teachers responding every day.
         </em>
       </p>
       <ul>
         <li>
           Rebuilt the Teacher Tapp app from an MVP into TypeScript and React
-          Native, establishing test-driven development and agile delivery as
-          standard practice.
+          Native on a distributed, fault-tolerant backend.
         </li>
         <li>
           Took the School Surveys MVP to a production-grade platform in
