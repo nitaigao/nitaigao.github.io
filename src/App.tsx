@@ -245,8 +245,7 @@ const App = () => (
           <strong>Cloud &amp; infrastructure:</strong> AWS, Google Cloud
           Platform, Azure, Terraform, Docker, Kubernetes, event-driven
           architecture, message brokers, CI/CD pipelines, performance tuning,
-          preview/staging/production environment provisioning, observability
-          with New Relic (logs, metrics, tracing)
+          environment provisioning, logs, metrics, tracing
         </li>
         <li>
           <strong>AI &amp; agentic engineering:</strong> LLM orchestration and
