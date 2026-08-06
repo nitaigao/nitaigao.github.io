@@ -2,17 +2,19 @@ import styles from "./App.module.css"
 
 const App = () => (
   <main className={styles.container}>
-    <h1>Nicholas Ashford</h1>
-    <p className={styles.links}>
-      <a href="/nicholas-ashford-cv.pdf" download>
-        Download PDF
-      </a>
-    </p>
-    <p>
-      Software Engineer · Distributed Systems, Cloud Infrastructure &amp;
-      Agentic AI
-    </p>
-    <a href="mailto:nick@nickashford.com">nick@nickashford.com</a>
+    <div>
+      <div className={styles.header}>
+        <h1>Nicholas Ashford</h1>
+        <a className={styles.links} href="/nicholas-ashford-cv.pdf" download>
+          Download PDF
+        </a>
+      </div>
+      <p>
+        Software Engineer · Distributed Systems, Cloud Infrastructure &amp;
+        Agentic AI
+      </p>
+      <a href="mailto:nick@nickashford.com">nick@nickashford.com</a>
+    </div>
     <section>
       <p>
         I'm a software engineer and systems programmer, currently CTO of
