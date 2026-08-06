@@ -88,7 +88,7 @@ I'm a software engineer and systems programmer with 18+ years of experience, cur
 
 *February 2012 – January 2014 · London*
 
-- Graphics programmer on Harry Potter titles for PlayStation 3 (C++/GPU), on the team responsible for special effects and integrating the art-tool pipeline.
+- Graphics programmer on Harry Potter titles for PlayStation 3 (C++/GPU), responsible for special effects and integrating the art-tool pipeline.
 - Built a real-time fluid simulation for the potion cauldron, implementing the Navier-Stokes equations in shaders on the PS3 GPU.
 - Implemented augmented-reality features using the PlayStation Eye, projecting a handheld device into in-game 3D environments.
 
